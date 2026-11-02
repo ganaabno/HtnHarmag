@@ -1,0 +1,37 @@
+{
+  "models": [
+    {
+      "original": "sergeenee_product_FINAL.glb",
+      "originalBytes": 11798172,
+      "originalSha256": "809ebb0b388a1ca56d4351471092e5f80813c0f0eb78d7416b9d62702f758df7",
+      "optimized": "sergeenee.glb",
+      "optimizedBytes": 1980924,
+      "meshCount": 15,
+      "materialCount": 5,
+      "embeddedImages": 5,
+      "extensions": [
+        "EXT_meshopt_compression",
+        "EXT_texture_webp",
+        "KHR_materials_clearcoat",
+        "KHR_mesh_quantization"
+      ]
+    },
+    {
+      "original": "qn_black_wolfberry.glb",
+      "originalBytes": 14078324,
+      "originalSha256": "ae1fdd1e1d121c5be51cf7b5b1b5955c2adf6956f495383e7ee9888adc2951fc",
+      "optimized": "wolfberry.glb",
+      "optimizedBytes": 1295928,
+      "meshCount": 10,
+      "materialCount": 7,
+      "embeddedImages": 21,
+      "extensions": [
+        "EXT_meshopt_compression",
+        "EXT_texture_webp",
+        "KHR_materials_clearcoat",
+        "KHR_mesh_quantization"
+      ]
+    }
+  ],
+  "generatedAt": "2026-10-25T12:34:04.959Z"
+}

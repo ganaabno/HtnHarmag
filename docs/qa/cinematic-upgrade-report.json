@@ -1,0 +1,23 @@
+{
+  "base": "http://127.0.0.1:4174",
+  "profiles": [
+    {
+      "name": "desktop",
+      "heroState": "IDLE",
+      "canvases": 1,
+      "overflow": false,
+      "navigationUnobscured": true,
+      "errors": [],
+      "failedAssets": []
+    },
+    {
+      "name": "mobile",
+      "heroState": "IDLE",
+      "canvases": 1,
+      "overflow": false,
+      "navigationUnobscured": true,
+      "errors": [],
+      "failedAssets": []
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "errors": [],
+  "viewports": [
+    {
+      "name": "desktop",
+      "width": 1440,
+      "height": 960,
+      "overflow": false,
+      "canvases": 1,
+      "requests": [
+        {
+          "url": "http://127.0.0.1:5174/models/sergeenee.glb",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:5174/models/wolfberry.glb",
+          "status": 200
+        }
+      ],
+      "inspection": {
+        "before": "-0.240",
+        "after": "-0.080"
+      },
+      "reducedMotionPins": 0
+    },
+    {
+      "name": "tablet",
+      "width": 820,
+      "height": 1180,
+      "overflow": false,
+      "canvases": 1,
+      "requests": [
+        {
+          "url": "http://127.0.0.1:5174/models/sergeenee.glb",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:5174/models/wolfberry.glb",
+          "status": 200
+        }
+      ],
+      "inspection": {
+        "before": "-0.240",
+        "after": "-0.080"
+      },
+      "reducedMotionPins": 0
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "overflow": false,
+      "canvases": 1,
+      "requests": [
+        {
+          "url": "http://127.0.0.1:5174/models/sergeenee.glb",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:5174/models/wolfberry.glb",
+          "status": 200
+        }
+      ],
+      "inspection": {
+        "before": "-0.240",
+        "after": "-0.080"
+      },
+      "reducedMotionPins": 0
+    }
+  ]
+}

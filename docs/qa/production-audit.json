@@ -1,0 +1,27 @@
+{
+  "productionURL": "http://127.0.0.1:4173",
+  "canvasCount": 1,
+  "webgl": "true",
+  "captures": [
+    {
+      "name": "chapter-origin",
+      "scroll": 1300,
+      "opacity": "1"
+    },
+    {
+      "name": "chapter-transformation",
+      "scroll": 2400,
+      "opacity": "1"
+    },
+    {
+      "name": "chapter-future",
+      "scroll": 3500,
+      "opacity": "1"
+    }
+  ],
+  "mobileOverflow": false,
+  "errors": [],
+  "failedResponses": [],
+  "mobileHeroActionsOpacity": "1",
+  "mobileHeroErrors": []
+}

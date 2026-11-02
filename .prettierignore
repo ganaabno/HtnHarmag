@@ -1,0 +1,8 @@
+node_modules
+dist
+assets
+docs
+bun.lock
+**/routeTree.gen.ts
+**/public
+**/test-results

@@ -1,0 +1,46 @@
+[
+  {
+    "width": 1920,
+    "height": 1080,
+    "errors": [],
+    "heroKeyboardRotation": true,
+    "webgl": "true",
+    "collectionRotation": true,
+    "fullscreen": true,
+    "fullscreenEscape": true,
+    "noHorizontalOverflow": true
+  },
+  {
+    "width": 1440,
+    "height": 900,
+    "errors": [],
+    "heroKeyboardRotation": true,
+    "webgl": "true",
+    "collectionRotation": true,
+    "fullscreen": true,
+    "fullscreenEscape": true,
+    "noHorizontalOverflow": true
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "errors": [],
+    "heroKeyboardRotation": true,
+    "webgl": "true",
+    "collectionRotation": false,
+    "fullscreen": true,
+    "fullscreenEscape": true,
+    "noHorizontalOverflow": true
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "errors": [],
+    "heroKeyboardRotation": true,
+    "webgl": "true",
+    "collectionRotation": true,
+    "fullscreen": true,
+    "fullscreenEscape": true,
+    "noHorizontalOverflow": true
+  }
+]
