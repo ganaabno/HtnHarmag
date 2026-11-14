@@ -2,13 +2,13 @@
   "models": [
     {
       "original": "sergeenee_product_FINAL.glb",
-      "originalBytes": 11798172,
-      "originalSha256": "809ebb0b388a1ca56d4351471092e5f80813c0f0eb78d7416b9d62702f758df7",
+      "originalBytes": 18548392,
+      "originalSha256": "4e4dd3834813e29e6b3b49a25baca9ffafd8aafad63e73ac475a87a6cc7bae02",
       "optimized": "sergeenee.glb",
-      "optimizedBytes": 1980924,
+      "optimizedBytes": 5230036,
       "meshCount": 15,
       "materialCount": 5,
-      "embeddedImages": 5,
+      "embeddedImages": 8,
       "extensions": [
         "EXT_meshopt_compression",
         "EXT_texture_webp",
@@ -33,5 +33,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-25T12:34:04.959Z"
+  "generatedAt": "2026-11-14T09:38:24.580Z"
 }

@@ -10,6 +10,7 @@ import { MeshoptEncoder } from "meshoptimizer";
 import sharp from "sharp";
 import { fileURLToPath } from "node:url";
 import { mkdir, copyFile, writeFile } from "node:fs/promises";
+import { validateSergeeneeAsset } from "./validate-sergeenee-asset.mjs";
 const base = new URL("../", import.meta.url);
 const dir = (s) => new URL(s, base);
 for (const d of ["models", "images", "documents"])
@@ -24,6 +25,7 @@ for (const [source, name] of [
   const doc = await io.read(
     dir(`assets/${source}`).pathname.replace(/^\/([A-Z]:)/, "$1"),
   );
+  if (name === "sergeenee.glb") validateSergeeneeAsset(doc);
   await MeshoptEncoder.ready;
   await doc.transform(
     dedup(),
@@ -33,6 +35,13 @@ for (const [source, name] of [
       targetFormat: "webp",
       resize: [2048, 2048],
       quality: 88,
+      slots: /^(?!normalTexture).*$/,
+    }),
+    textureCompress({
+      encoder: sharp,
+      targetFormat: "webp",
+      slots: /^normalTexture$/,
+      lossless: true,
     }),
     meshopt({ encoder: MeshoptEncoder, level: "medium" }),
   );
