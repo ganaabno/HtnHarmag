@@ -1,0 +1,700 @@
+{
+  "isolation_red": {
+    "validator": {
+      "uri": "isolation_red.glb",
+      "mimeType": "model/gltf-binary",
+      "validatorVersion": "2.0.0-dev.3.10",
+      "validatedAt": "2026-11-15T11:17:12.423Z",
+      "issues": {
+        "numErrors": 0,
+        "numWarnings": 0,
+        "numInfos": 34,
+        "numHints": 0,
+        "messages": [
+          {
+            "code": "UNUSED_MESH_TANGENT",
+            "message": "Tangents are not used because the material has no normal texture.",
+            "severity": 2,
+            "pointer": "/meshes/0/primitives/0/attributes/TANGENT"
+          },
+          {
+            "code": "UNUSED_OBJECT",
+            "message": "This object may be unused.",
+            "severity": 2,
+            "pointer": "/meshes/0/primitives/0/attributes/TEXCOORD_0"
+          },
+          {
+            "code": "UNUSED_MESH_TANGENT",
+            "message": "Tangents are not used because the material has no normal texture.",
+            "severity": 2,
+            "pointer": "/meshes/1/primitives/0/attributes/TANGENT"
+          },
+          {
+            "code": "UNUSED_OBJECT",
+            "message": "This object may be unused.",
+            "severity": 2,
+            "pointer": "/meshes/1/primitives/0/attributes/TEXCOORD_0"
+          },
+          {
+            "code": "UNUSED_MESH_TANGENT",
+            "message": "Tangents are not used because the material has no normal texture.",
+            "severity": 2,
+            "pointer": "/meshes/2/primitives/0/attributes/TANGENT"
+          },
+          {
+            "code": "UNUSED_OBJECT",
+            "message": "This object may be unused.",
+            "severity": 2,
+            "pointer": "/meshes/2/primitives/0/attributes/TEXCOORD_0"
+          },
+          {
+            "code": "UNUSED_MESH_TANGENT",
+            "message": "Tangents are not used because the material has no normal texture.",
+            "severity": 2,
+            "pointer": "/meshes/3/primitives/0/attributes/TANGENT"
+          },
+          {
+            "code": "UNUSED_OBJECT",
+            "message": "This object may be unused.",
+            "severity": 2,
+            "pointer": "/meshes/3/primitives/0/attributes/TEXCOORD_0"
+          },
+          {
+            "code": "UNUSED_MESH_TANGENT",
+            "message": "Tangents are not used because the material has no normal texture.",
+            "severity": 2,
+            "pointer": "/meshes/4/primitives/0/attributes/TANGENT"
+          },
+          {
+            "code": "UNUSED_OBJECT",
+            "message": "This object may be unused.",
+            "severity": 2,
+            "pointer": "/meshes/4/primitives/0/attributes/TEXCOORD_0"
+          },
+          {
+            "code": "UNUSED_MESH_TANGENT",
+            "message": "Tangents are not used because the material has no normal texture.",
+            "severity": 2,
+            "pointer": "/meshes/5/primitives/0/attributes/TANGENT"
+          },
+          {
+            "code": "UNUSED_OBJECT",
+            "message": "This object may be unused.",
+            "severity": 2,
+            "pointer": "/meshes/5/primitives/0/attributes/TEXCOORD_0"
+          },
+          {
+            "code": "UNUSED_MESH_TANGENT",
+            "message": "Tangents are not used because the material has no normal texture.",
+            "severity": 2,
+            "pointer": "/meshes/5/primitives/1/attributes/TANGENT"
+          },
+          {
+            "code": "UNUSED_OBJECT",
+            "message": "This object may be unused.",
+            "severity": 2,
+            "pointer": "/meshes/5/primitives/1/attributes/TEXCOORD_0"
+          },
+          {
+            "code": "UNUSED_MESH_TANGENT",
+            "message": "Tangents are not used because the material has no normal texture.",
+            "severity": 2,
+            "pointer": "/meshes/6/primitives/0/attributes/TANGENT"
+          },
+          {
+            "code": "UNUSED_OBJECT",
+            "message": "This object may be unused.",
+            "severity": 2,
+            "pointer": "/meshes/6/primitives/0/attributes/TEXCOORD_0"
+          },
+          {
+            "code": "UNUSED_MESH_TANGENT",
+            "message": "Tangents are not used because the material has no normal texture.",
+            "severity": 2,
+            "pointer": "/meshes/6/primitives/1/attributes/TANGENT"
+          },
+          {
+            "code": "UNUSED_OBJECT",
+            "message": "This object may be unused.",
+            "severity": 2,
+            "pointer": "/meshes/6/primitives/1/attributes/TEXCOORD_0"
+          },
+          {
+            "code": "UNUSED_MESH_TANGENT",
+            "message": "Tangents are not used because the material has no normal texture.",
+            "severity": 2,
+            "pointer": "/meshes/7/primitives/0/attributes/TANGENT"
+          },
+          {
+            "code": "UNUSED_OBJECT",
+            "message": "This object may be unused.",
+            "severity": 2,
+            "pointer": "/meshes/7/primitives/0/attributes/TEXCOORD_0"
+          },
+          {
+            "code": "UNUSED_MESH_TANGENT",
+            "message": "Tangents are not used because the material has no normal texture.",
+            "severity": 2,
+            "pointer": "/meshes/8/primitives/0/attributes/TANGENT"
+          },
+          {
+            "code": "UNUSED_OBJECT",
+            "message": "This object may be unused.",
+            "severity": 2,
+            "pointer": "/meshes/8/primitives/0/attributes/TEXCOORD_0"
+          },
+          {
+            "code": "UNUSED_MESH_TANGENT",
+            "message": "Tangents are not used because the material has no normal texture.",
+            "severity": 2,
+            "pointer": "/meshes/9/primitives/0/attributes/TANGENT"
+          },
+          {
+            "code": "UNUSED_OBJECT",
+            "message": "This object may be unused.",
+            "severity": 2,
+            "pointer": "/meshes/9/primitives/0/attributes/TEXCOORD_0"
+          },
+          {
+            "code": "UNUSED_MESH_TANGENT",
+            "message": "Tangents are not used because the material has no normal texture.",
+            "severity": 2,
+            "pointer": "/meshes/10/primitives/0/attributes/TANGENT"
+          },
+          {
+            "code": "UNUSED_OBJECT",
+            "message": "This object may be unused.",
+            "severity": 2,
+            "pointer": "/meshes/10/primitives/0/attributes/TEXCOORD_0"
+          },
+          {
+            "code": "UNUSED_MESH_TANGENT",
+            "message": "Tangents are not used because the material has no normal texture.",
+            "severity": 2,
+            "pointer": "/meshes/11/primitives/0/attributes/TANGENT"
+          },
+          {
+            "code": "UNUSED_OBJECT",
+            "message": "This object may be unused.",
+            "severity": 2,
+            "pointer": "/meshes/11/primitives/0/attributes/TEXCOORD_0"
+          },
+          {
+            "code": "UNUSED_MESH_TANGENT",
+            "message": "Tangents are not used because the material has no normal texture.",
+            "severity": 2,
+            "pointer": "/meshes/12/primitives/0/attributes/TANGENT"
+          },
+          {
+            "code": "UNUSED_OBJECT",
+            "message": "This object may be unused.",
+            "severity": 2,
+            "pointer": "/meshes/12/primitives/0/attributes/TEXCOORD_0"
+          },
+          {
+            "code": "UNUSED_MESH_TANGENT",
+            "message": "Tangents are not used because the material has no normal texture.",
+            "severity": 2,
+            "pointer": "/meshes/13/primitives/0/attributes/TANGENT"
+          },
+          {
+            "code": "UNUSED_OBJECT",
+            "message": "This object may be unused.",
+            "severity": 2,
+            "pointer": "/meshes/13/primitives/0/attributes/TEXCOORD_0"
+          },
+          {
+            "code": "UNUSED_MESH_TANGENT",
+            "message": "Tangents are not used because the material has no normal texture.",
+            "severity": 2,
+            "pointer": "/meshes/14/primitives/0/attributes/TANGENT"
+          },
+          {
+            "code": "UNUSED_OBJECT",
+            "message": "This object may be unused.",
+            "severity": 2,
+            "pointer": "/meshes/14/primitives/0/attributes/TEXCOORD_0"
+          }
+        ],
+        "truncated": false
+      },
+      "info": {
+        "version": "2.0",
+        "generator": "Khronos glTF Blender I/O v5.2.41",
+        "resources": [
+          {
+            "pointer": "/buffers/0",
+            "mimeType": "application/gltf-buffer",
+            "storage": "glb",
+            "byteLength": 9953796
+          }
+        ],
+        "animationCount": 0,
+        "materialCount": 1,
+        "hasMorphTargets": false,
+        "hasSkins": false,
+        "hasTextures": false,
+        "hasDefaultScene": true,
+        "drawCallCount": 17,
+        "totalVertexCount": 169410,
+        "totalTriangleCount": 303686,
+        "maxUVs": 1,
+        "maxInfluences": 0,
+        "maxAttributes": 4
+      }
+    },
+    "three": {
+      "engine": "Three.js 187",
+      "bounds": {
+        "min": [
+          -0.0512104257941246,
+          0.000400000368244946,
+          -0.02185540273785591
+        ],
+        "max": [
+          0.05108324810862541,
+          0.19500000774860382,
+          0.021855462342500687
+        ],
+        "dimensions": [
+          0.10229367390275002,
+          0.19460000738035887,
+          0.0437108650803566
+        ]
+      },
+      "errors": []
+    },
+    "babylon": {
+      "engine": "Babylon.js 9.36.0",
+      "meshes": [
+        {
+          "name": "Bottom_gusset_inward_W_fold.001",
+          "vertices": 7456,
+          "indices": 39936
+        },
+        {
+          "name": "Cap_64_vertical_grip_ribs.001",
+          "vertices": 6411,
+          "indices": 20736
+        },
+        {
+          "name": "Cap_crown.001",
+          "vertices": 2922,
+          "indices": 4596
+        },
+        {
+          "name": "Centered_neck.001",
+          "vertices": 964,
+          "indices": 4596
+        },
+        {
+          "name": "Narrow_continuous_heat_weld.001",
+          "vertices": 1206,
+          "indices": 1914
+        },
+        {
+          "name": "Pouch_back_panel.001_primitive0",
+          "vertices": 57814,
+          "indices": 342720
+        },
+        {
+          "name": "Pouch_back_panel.001_primitive1",
+          "vertices": 11566,
+          "indices": 53184
+        },
+        {
+          "name": "Pouch_front_panel.001_primitive0",
+          "vertices": 57814,
+          "indices": 342720
+        },
+        {
+          "name": "Pouch_front_panel.001_primitive1",
+          "vertices": 11658,
+          "indices": 53184
+        },
+        {
+          "name": "Screw_cap_ribbed_shell.001",
+          "vertices": 2999,
+          "indices": 4596
+        },
+        {
+          "name": "Spout_retaining_ring.004",
+          "vertices": 964,
+          "indices": 4596
+        },
+        {
+          "name": "Spout_retaining_ring.005",
+          "vertices": 964,
+          "indices": 4596
+        },
+        {
+          "name": "Spout_retaining_ring.006",
+          "vertices": 964,
+          "indices": 4596
+        },
+        {
+          "name": "Spout_retaining_ring.007",
+          "vertices": 964,
+          "indices": 4596
+        },
+        {
+          "name": "Spout_screw_thread_2_5_turns.001",
+          "vertices": 2816,
+          "indices": 15300
+        },
+        {
+          "name": "Spout_welded_boat_flange.001",
+          "vertices": 964,
+          "indices": 4596
+        },
+        {
+          "name": "Tamper_evident_band.001",
+          "vertices": 964,
+          "indices": 4596
+        }
+      ],
+      "materials": [
+        {
+          "name": "ISOLATION_OPAQUE_RED",
+          "base": [
+            0.5,
+            0.012000000104308128,
+            0.006000000052154064
+          ]
+        }
+      ],
+      "bounds": {
+        "min": [
+          -0.0512104257941246,
+          0.000400000368244946,
+          -0.02185540273785591
+        ],
+        "max": [
+          0.05108324810862541,
+          0.19500000774860382,
+          0.021855462342500687
+        ],
+        "dimensions": [
+          0.10229367390275002,
+          0.19460000738035887,
+          0.0437108650803566
+        ]
+      },
+      "errors": []
+    }
+  },
+  "isolation_original_materials": {
+    "validator": {
+      "uri": "isolation_original_materials.glb",
+      "mimeType": "model/gltf-binary",
+      "validatorVersion": "2.0.0-dev.3.10",
+      "validatedAt": "2026-11-15T11:17:29.678Z",
+      "issues": {
+        "numErrors": 0,
+        "numWarnings": 0,
+        "numInfos": 2,
+        "numHints": 0,
+        "messages": [
+          {
+            "code": "IMAGE_NPOT_DIMENSIONS",
+            "message": "Image has non-power-of-two dimensions: 1800x2880.",
+            "severity": 2,
+            "pointer": "/images/4"
+          },
+          {
+            "code": "IMAGE_NPOT_DIMENSIONS",
+            "message": "Image has non-power-of-two dimensions: 2400x3840.",
+            "severity": 2,
+            "pointer": "/images/5"
+          }
+        ],
+        "truncated": false
+      },
+      "info": {
+        "version": "2.0",
+        "generator": "Khronos glTF Blender I/O v5.2.41",
+        "extensionsUsed": [
+          "KHR_materials_clearcoat"
+        ],
+        "resources": [
+          {
+            "pointer": "/buffers/0",
+            "mimeType": "application/gltf-buffer",
+            "storage": "glb",
+            "byteLength": 12210064
+          },
+          {
+            "pointer": "/images/0",
+            "mimeType": "image/png",
+            "storage": "buffer-view",
+            "image": {
+              "width": 1024,
+              "height": 1024,
+              "format": "luminance",
+              "primaries": "srgb",
+              "transfer": "srgb",
+              "bits": 8
+            }
+          },
+          {
+            "pointer": "/images/1",
+            "mimeType": "image/png",
+            "storage": "buffer-view",
+            "image": {
+              "width": 1024,
+              "height": 1024,
+              "format": "rgb",
+              "primaries": "srgb",
+              "transfer": "srgb",
+              "bits": 8
+            }
+          },
+          {
+            "pointer": "/images/2",
+            "mimeType": "image/png",
+            "storage": "buffer-view",
+            "image": {
+              "width": 1024,
+              "height": 1024,
+              "format": "rgb",
+              "primaries": "srgb",
+              "transfer": "srgb",
+              "bits": 8
+            }
+          },
+          {
+            "pointer": "/images/3",
+            "mimeType": "image/png",
+            "storage": "buffer-view",
+            "image": {
+              "width": 1024,
+              "height": 1024,
+              "format": "luminance",
+              "primaries": "srgb",
+              "transfer": "srgb",
+              "bits": 8
+            }
+          },
+          {
+            "pointer": "/images/4",
+            "mimeType": "image/png",
+            "storage": "buffer-view",
+            "image": {
+              "width": 1800,
+              "height": 2880,
+              "format": "rgba",
+              "primaries": "srgb",
+              "transfer": "srgb",
+              "bits": 8
+            }
+          },
+          {
+            "pointer": "/images/5",
+            "mimeType": "image/png",
+            "storage": "buffer-view",
+            "image": {
+              "width": 2400,
+              "height": 3840,
+              "format": "rgba",
+              "primaries": "srgb",
+              "transfer": "srgb",
+              "bits": 8
+            }
+          }
+        ],
+        "animationCount": 0,
+        "materialCount": 5,
+        "hasMorphTargets": false,
+        "hasSkins": false,
+        "hasTextures": true,
+        "hasDefaultScene": true,
+        "drawCallCount": 17,
+        "totalVertexCount": 169410,
+        "totalTriangleCount": 303686,
+        "maxUVs": 1,
+        "maxInfluences": 0,
+        "maxAttributes": 4
+      }
+    },
+    "three": {
+      "engine": "Three.js 187",
+      "bounds": {
+        "min": [
+          -0.0512104257941246,
+          0.000400000368244946,
+          -0.02185540273785591
+        ],
+        "max": [
+          0.05108324810862541,
+          0.19500000774860382,
+          0.021855462342500687
+        ],
+        "dimensions": [
+          0.10229367390275002,
+          0.19460000738035887,
+          0.0437108650803566
+        ]
+      },
+      "errors": []
+    },
+    "babylon": {
+      "engine": "Babylon.js 9.36.0",
+      "meshes": [
+        {
+          "name": "Bottom_gusset_inward_W_fold.001",
+          "vertices": 7456,
+          "indices": 39936
+        },
+        {
+          "name": "Cap_64_vertical_grip_ribs.001",
+          "vertices": 6411,
+          "indices": 20736
+        },
+        {
+          "name": "Cap_crown.001",
+          "vertices": 2922,
+          "indices": 4596
+        },
+        {
+          "name": "Centered_neck.001",
+          "vertices": 964,
+          "indices": 4596
+        },
+        {
+          "name": "Narrow_continuous_heat_weld.001",
+          "vertices": 1206,
+          "indices": 1914
+        },
+        {
+          "name": "Pouch_back_panel.001_primitive0",
+          "vertices": 57814,
+          "indices": 342720
+        },
+        {
+          "name": "Pouch_back_panel.001_primitive1",
+          "vertices": 11566,
+          "indices": 53184
+        },
+        {
+          "name": "Pouch_front_panel.001_primitive0",
+          "vertices": 57814,
+          "indices": 342720
+        },
+        {
+          "name": "Pouch_front_panel.001_primitive1",
+          "vertices": 11658,
+          "indices": 53184
+        },
+        {
+          "name": "Screw_cap_ribbed_shell.001",
+          "vertices": 2999,
+          "indices": 4596
+        },
+        {
+          "name": "Spout_retaining_ring.004",
+          "vertices": 964,
+          "indices": 4596
+        },
+        {
+          "name": "Spout_retaining_ring.005",
+          "vertices": 964,
+          "indices": 4596
+        },
+        {
+          "name": "Spout_retaining_ring.006",
+          "vertices": 964,
+          "indices": 4596
+        },
+        {
+          "name": "Spout_retaining_ring.007",
+          "vertices": 964,
+          "indices": 4596
+        },
+        {
+          "name": "Spout_screw_thread_2_5_turns.001",
+          "vertices": 2816,
+          "indices": 15300
+        },
+        {
+          "name": "Spout_welded_boat_flange.001",
+          "vertices": 964,
+          "indices": 4596
+        },
+        {
+          "name": "Tamper_evident_band.001",
+          "vertices": 964,
+          "indices": 4596
+        }
+      ],
+      "materials": [
+        {
+          "name": "PET laminate • supplied PBR • subtle film",
+          "base": [
+            1,
+            1,
+            1
+          ],
+          "albedo": "PET laminate • supplied PBR • subtle film (Base Color)",
+          "normal": "PET laminate • supplied PBR • subtle film (Normal)"
+        },
+        {
+          "name": "Cap • off-white injection molded polypropylene",
+          "base": [
+            0.9100000262260437,
+            0.8999999761581421,
+            0.8700000047683716
+          ],
+          "normal": "Cap • off-white injection molded polypropylene (Normal)"
+        },
+        {
+          "name": "Heat weld • flattened embossed laminate",
+          "base": [
+            1,
+            1,
+            1
+          ],
+          "albedo": "Heat weld • flattened embossed laminate (Base Color)",
+          "normal": "Heat weld • flattened embossed laminate (Normal)"
+        },
+        {
+          "name": "FINAL_back_printed_PET",
+          "base": [
+            1,
+            1,
+            1
+          ],
+          "albedo": "FINAL_back_printed_PET (Base Color)",
+          "normal": "FINAL_back_printed_PET (Normal)"
+        },
+        {
+          "name": "FINAL_front_printed_PET",
+          "base": [
+            1,
+            1,
+            1
+          ],
+          "albedo": "FINAL_front_printed_PET (Base Color)",
+          "normal": "FINAL_front_printed_PET (Normal)"
+        }
+      ],
+      "bounds": {
+        "min": [
+          -0.0512104257941246,
+          0.000400000368244946,
+          -0.02185540273785591
+        ],
+        "max": [
+          0.05108324810862541,
+          0.19500000774860382,
+          0.021855462342500687
+        ],
+        "dimensions": [
+          0.10229367390275002,
+          0.19460000738035887,
+          0.0437108650803566
+        ]
+      },
+      "errors": []
+    }
+  }
+}

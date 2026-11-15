@@ -30,7 +30,7 @@ export const products: Product[] = [
       "Говийн улаан гоёоны орцтой, өдөр тутмын хэмнэлд тань зориулсан ундаа. Байгалийн үнэ цэнийг энгийн нэг мөчид.",
     ingredients:
       "Цэвэршүүлсэн ус, улаан гоёо, чихэр өвс, нимбэгийн хүчил (хүчиллэг тохируулагч), байгалийн гаралтай чихрийн амт оруулагч.",
-    model: "/models/sergeenee.glb",
+    model: "/models/sergeenee_surface_refined_repaired.glb",
     image: "/images/sergeenee.png",
     color: "#C57A34",
     variant: { id: "single", label: "1 ширхэг · 150 мл" },

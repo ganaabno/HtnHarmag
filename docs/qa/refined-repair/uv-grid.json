@@ -1,0 +1,22 @@
+{
+  "Pouch_front_panel": {
+    "grid": [
+      73,
+      113
+    ],
+    "active_uv": "Front_Artwork_UV",
+    "back_mirrored_for_readable_print": false,
+    "max_uv_grid_error": 2.6490953208835322e-08,
+    "grid_is_one_to_one": true
+  },
+  "Pouch_back_panel": {
+    "grid": [
+      73,
+      113
+    ],
+    "active_uv": "Back_Artwork_UV",
+    "back_mirrored_for_readable_print": true,
+    "max_uv_grid_error": 2.6490953208835322e-08,
+    "grid_is_one_to_one": true
+  }
+}

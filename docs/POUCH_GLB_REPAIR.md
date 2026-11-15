@@ -1,5 +1,7 @@
 # Pouch GLB export repair
 
+Historical report for the earlier FINAL pouch. The current refined model, its new repair, and current website integration are documented in [REFINED_GLB_REPAIR.md](REFINED_GLB_REPAIR.md).
+
 The corruption was in the exported asset, not a lighting or Three.js-only problem. The same original GLB reproduced black laminate, white stripes and overlapping outlines in independent Babylon.js and standalone Three.js viewers.
 
 ## Exact findings

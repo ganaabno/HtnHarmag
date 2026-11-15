@@ -30,7 +30,7 @@ For first-time browser testing: `bunx playwright install chromium` from `apps/we
 - `packages/animations`: GSAP / ScrollTrigger and Lenis lifecycle. GSAP owns scroll progression and chapter reveals; Motion owns commerce/menu transitions. They do not animate the same transforms.
 - `packages/ui`: reusable shadcn-style Slot-based Button and class merging. Radix primitives provide focus trapping and keyboard interaction in drawers, menus and accordions.
 - `packages/commerce`: typed catalog, validated demo adapter, Zustand persistent cart, authoritative catalog totals and quantity limits, Zod checkout schema.
-- `scripts/prepare-assets.mjs`: originals → deduplicated, pruned, Meshopt-compressed GLBs with WebP textures (max 2048px). Original files are never overwritten. Run `bun scripts/prepare-assets.mjs` when original GLBs or logos change.
+- `scripts/prepare-assets.mjs`: copies the independently verified refined pouch GLB unchanged; optimizes the wolfberry GLB with Meshopt and WebP textures. Original files are never overwritten. Run `bun scripts/prepare-assets.mjs` when source GLBs or logos change. See [refined pouch repair and render evidence](docs/REFINED_GLB_REPAIR.md).
 - `docs`: extracted source text and browser QA captures. Source documents remain in `assets` and the public documents folder.
 
 TypeScript 6 is pinned because the installed typescript-eslint release does not support TypeScript 7. `bun.lock` pins all resolved dependencies.

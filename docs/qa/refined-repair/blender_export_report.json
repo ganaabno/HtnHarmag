@@ -1,0 +1,581 @@
+{
+  "source_blend": "C:\\Users\\77\\dev\\blender\\refined_glb_repair\\source_snapshot.blend",
+  "objects": [
+    {
+      "name": "Pouch_front_panel",
+      "vertices": 65986,
+      "faces": 65984,
+      "loose_vertices": 0,
+      "duplicate_faces": 0,
+      "zero_area_faces": 0,
+      "uv_map": "Front_Artwork_UV",
+      "uv_range": [
+        [
+          0.0,
+          1.0000001192092896
+        ],
+        [
+          0.0,
+          1.0000001192092896
+        ]
+      ],
+      "nonfinite_vertices": 0,
+      "bounds_blender_m": [
+        [
+          -0.051147688180208206,
+          0.05102057009935379
+        ],
+        [
+          -0.021855462342500687,
+          -0.00025788243510760367
+        ],
+        [
+          0.00045976543333381414,
+          0.16099028289318085
+        ]
+      ]
+    },
+    {
+      "name": "Pouch_back_panel",
+      "vertices": 65986,
+      "faces": 65984,
+      "loose_vertices": 0,
+      "duplicate_faces": 0,
+      "zero_area_faces": 0,
+      "uv_map": "Back_Artwork_UV",
+      "uv_range": [
+        [
+          0.0,
+          1.0000001192092896
+        ],
+        [
+          0.0,
+          1.0000001192092896
+        ]
+      ],
+      "nonfinite_vertices": 0,
+      "bounds_blender_m": [
+        [
+          -0.051147688180208206,
+          0.05102057382464409
+        ],
+        [
+          0.00025787969934754074,
+          0.02185540273785591
+        ],
+        [
+          0.00045976543333381414,
+          0.16099026799201965
+        ]
+      ]
+    },
+    {
+      "name": "Narrow_continuous_heat_weld",
+      "vertices": 618,
+      "faces": 318,
+      "loose_vertices": 0,
+      "duplicate_faces": 0,
+      "zero_area_faces": 0,
+      "uv_map": "Seam_Gusset_UV",
+      "uv_range": [
+        [
+          0.0010914653539657593,
+          0.998908519744873
+        ],
+        [
+          5.937181302151373e-10,
+          1.004062533378601
+        ]
+      ],
+      "nonfinite_vertices": 0,
+      "bounds_blender_m": [
+        [
+          -0.0512104257941246,
+          0.05108324810862541
+        ],
+        [
+          -0.006670000031590462,
+          0.006670000031590462
+        ],
+        [
+          0.000400000368244946,
+          0.16105002164840698
+        ]
+      ]
+    },
+    {
+      "name": "Bottom_gusset_inward_W_fold",
+      "vertices": 6658,
+      "faces": 6656,
+      "loose_vertices": 0,
+      "duplicate_faces": 0,
+      "zero_area_faces": 0,
+      "uv_map": "Seam_Gusset_UV",
+      "uv_range": [
+        [
+          0.05699998885393143,
+          0.9430001974105835
+        ],
+        [
+          0.09156248718500137,
+          0.9084376692771912
+        ]
+      ],
+      "nonfinite_vertices": 0,
+      "bounds_blender_m": [
+        [
+          -0.044606998562812805,
+          0.04447982832789421
+        ],
+        [
+          -0.02174603007733822,
+          0.02174602821469307
+        ],
+        [
+          0.00043147325050085783,
+          0.0063680000603199005
+        ]
+      ]
+    },
+    {
+      "name": "Tamper_evident_band",
+      "vertices": 768,
+      "faces": 674,
+      "loose_vertices": 0,
+      "duplicate_faces": 0,
+      "zero_area_faces": 0,
+      "uv_map": "UVMap",
+      "uv_range": [
+        [
+          -7.469207048416138e-07,
+          1.0
+        ],
+        [
+          0.010000995360314846,
+          1.0
+        ]
+      ],
+      "nonfinite_vertices": 0,
+      "bounds_blender_m": [
+        [
+          -0.012000000104308128,
+          0.012000000104308128
+        ],
+        [
+          -0.012000000104308128,
+          0.012000000104308128
+        ],
+        [
+          0.17215000092983246,
+          0.17464999854564667
+        ]
+      ]
+    },
+    {
+      "name": "Screw_cap_ribbed_shell",
+      "vertices": 768,
+      "faces": 674,
+      "loose_vertices": 0,
+      "duplicate_faces": 0,
+      "zero_area_faces": 0,
+      "uv_map": "UVMap",
+      "uv_range": [
+        [
+          -7.469207048416138e-07,
+          1.0
+        ],
+        [
+          0.01000106893479824,
+          1.0
+        ]
+      ],
+      "nonfinite_vertices": 0,
+      "bounds_blender_m": [
+        [
+          -0.011500000022351742,
+          0.011500000022351742
+        ],
+        [
+          -0.011500000022351742,
+          0.011500000022351742
+        ],
+        [
+          0.17440000176429749,
+          0.19440001249313354
+        ]
+      ]
+    },
+    {
+      "name": "Cap_crown",
+      "vertices": 768,
+      "faces": 674,
+      "loose_vertices": 0,
+      "duplicate_faces": 0,
+      "zero_area_faces": 0,
+      "uv_map": "UVMap",
+      "uv_range": [
+        [
+          -7.469207048416138e-07,
+          1.0
+        ],
+        [
+          0.010001072660088539,
+          1.0
+        ]
+      ],
+      "nonfinite_vertices": 0,
+      "bounds_blender_m": [
+        [
+          -0.011300000362098217,
+          0.011300000362098217
+        ],
+        [
+          -0.011300000362098217,
+          0.011300000362098217
+        ],
+        [
+          0.19419999420642853,
+          0.19500000774860382
+        ]
+      ]
+    },
+    {
+      "name": "Cap_64_vertical_grip_ribs",
+      "vertices": 3584,
+      "faces": 3456,
+      "loose_vertices": 0,
+      "duplicate_faces": 0,
+      "zero_area_faces": 0,
+      "uv_map": "Cylindrical_UV",
+      "uv_range": [
+        [
+          0.0019098591292276978,
+          0.9980901479721069
+        ],
+        [
+          0.045454591512680054,
+          0.8772727251052856
+        ]
+      ],
+      "nonfinite_vertices": 0,
+      "bounds_blender_m": [
+        [
+          -0.011849147267639637,
+          0.011849147267639637
+        ],
+        [
+          -0.011849147267639637,
+          0.011849147267639637
+        ],
+        [
+          0.1754000037908554,
+          0.19370000064373016
+        ]
+      ]
+    },
+    {
+      "name": "Spout_welded_boat_flange",
+      "vertices": 768,
+      "faces": 674,
+      "loose_vertices": 0,
+      "duplicate_faces": 0,
+      "zero_area_faces": 0,
+      "uv_map": "UVMap",
+      "uv_range": [
+        [
+          -7.469207048416138e-07,
+          1.0
+        ],
+        [
+          0.010000918060541153,
+          1.0
+        ]
+      ],
+      "nonfinite_vertices": 0,
+      "bounds_blender_m": [
+        [
+          -0.013000000268220901,
+          0.013000000268220901
+        ],
+        [
+          -0.005980000365525484,
+          0.005980000365525484
+        ],
+        [
+          0.16050000488758087,
+          0.16250000894069672
+        ]
+      ]
+    },
+    {
+      "name": "Centered_neck",
+      "vertices": 768,
+      "faces": 674,
+      "loose_vertices": 0,
+      "duplicate_faces": 0,
+      "zero_area_faces": 0,
+      "uv_map": "UVMap",
+      "uv_range": [
+        [
+          -7.469207048416138e-07,
+          1.0
+        ],
+        [
+          0.010001570917665958,
+          1.0
+        ]
+      ],
+      "nonfinite_vertices": 0,
+      "bounds_blender_m": [
+        [
+          -0.007699999958276749,
+          0.007699999958276749
+        ],
+        [
+          -0.007699999958276749,
+          0.007699999958276749
+        ],
+        [
+          0.16040000319480896,
+          0.17239999771118164
+        ]
+      ]
+    },
+    {
+      "name": "Spout_retaining_ring",
+      "vertices": 768,
+      "faces": 674,
+      "loose_vertices": 0,
+      "duplicate_faces": 0,
+      "zero_area_faces": 0,
+      "uv_map": "UVMap",
+      "uv_range": [
+        [
+          -7.469207048416138e-07,
+          1.0
+        ],
+        [
+          0.01000106893479824,
+          1.0
+        ]
+      ],
+      "nonfinite_vertices": 0,
+      "bounds_blender_m": [
+        [
+          -0.011500000022351742,
+          0.011500000022351742
+        ],
+        [
+          -0.011500000022351742,
+          0.011500000022351742
+        ],
+        [
+          0.16085000336170197,
+          0.1619500070810318
+        ]
+      ]
+    },
+    {
+      "name": "Spout_retaining_ring.001",
+      "vertices": 768,
+      "faces": 674,
+      "loose_vertices": 0,
+      "duplicate_faces": 0,
+      "zero_area_faces": 0,
+      "uv_map": "UVMap",
+      "uv_range": [
+        [
+          -7.469207048416138e-07,
+          1.0
+        ],
+        [
+          0.010001138783991337,
+          1.0
+        ]
+      ],
+      "nonfinite_vertices": 0,
+      "bounds_blender_m": [
+        [
+          -0.010499999858438969,
+          0.010499999858438969
+        ],
+        [
+          -0.010499999858438969,
+          0.010499999858438969
+        ],
+        [
+          0.16384999454021454,
+          0.16494999825954437
+        ]
+      ]
+    },
+    {
+      "name": "Spout_retaining_ring.002",
+      "vertices": 768,
+      "faces": 674,
+      "loose_vertices": 0,
+      "duplicate_faces": 0,
+      "zero_area_faces": 0,
+      "uv_map": "UVMap",
+      "uv_range": [
+        [
+          -7.469207048416138e-07,
+          1.0
+        ],
+        [
+          0.010001100599765778,
+          1.0
+        ]
+      ],
+      "nonfinite_vertices": 0,
+      "bounds_blender_m": [
+        [
+          -0.010999999940395355,
+          0.010999999940395355
+        ],
+        [
+          -0.010999999940395355,
+          0.010999999940395355
+        ],
+        [
+          0.16785000264644623,
+          0.16895000636577606
+        ]
+      ]
+    },
+    {
+      "name": "Spout_retaining_ring.003",
+      "vertices": 768,
+      "faces": 674,
+      "loose_vertices": 0,
+      "duplicate_faces": 0,
+      "zero_area_faces": 0,
+      "uv_map": "UVMap",
+      "uv_range": [
+        [
+          -7.469207048416138e-07,
+          1.0
+        ],
+        [
+          0.010001027025282383,
+          1.0
+        ]
+      ],
+      "nonfinite_vertices": 0,
+      "bounds_blender_m": [
+        [
+          -0.011800000444054604,
+          0.011800000444054604
+        ],
+        [
+          -0.011800000444054604,
+          0.011800000444054604
+        ],
+        [
+          0.17184999585151672,
+          0.17294999957084656
+        ]
+      ]
+    },
+    {
+      "name": "Spout_screw_thread_2_5_turns",
+      "vertices": 2560,
+      "faces": 2550,
+      "loose_vertices": 0,
+      "duplicate_faces": 0,
+      "zero_area_faces": 0,
+      "uv_map": "UVMap",
+      "uv_range": [
+        [
+          0.0,
+          1.0
+        ],
+        [
+          0.0,
+          1.0
+        ]
+      ],
+      "nonfinite_vertices": 0,
+      "bounds_blender_m": [
+        [
+          -0.00857735425233841,
+          0.008579819463193417
+        ],
+        [
+          -0.008575727231800556,
+          0.008574603125452995
+        ],
+        [
+          0.1660391241312027,
+          0.17377781867980957
+        ]
+      ]
+    }
+  ],
+  "material_bakes": [
+    {
+      "source": "FINAL_front_printed_PET",
+      "export": "glTF_FINAL_front_printed_PET.001",
+      "basecolor": "front_basecolor.001",
+      "roughness": "front_roughness.001",
+      "normal": "front_normal.001"
+    },
+    {
+      "source": "Heat weld • flattened embossed laminate",
+      "export": "glTF_Heat weld • flattened embossed laminate.001",
+      "basecolor": "weld_basecolor.001",
+      "roughness": 0.3199999928474426,
+      "normal": "weld_normal.001"
+    },
+    {
+      "source": "FINAL_back_printed_PET",
+      "export": "glTF_FINAL_back_printed_PET.001",
+      "basecolor": "back_basecolor.001",
+      "roughness": "back_roughness.001",
+      "normal": "back_normal.001"
+    },
+    {
+      "source": "PET laminate • supplied PBR • subtle film",
+      "export": "glTF_PET laminate • supplied PBR • subtle film.001",
+      "basecolor": "film_basecolor.001",
+      "roughness": "film_roughness.001",
+      "normal": "film_normal.001"
+    },
+    {
+      "source": "Cap • off-white injection molded polypropylene",
+      "export": "glTF_Cap • off-white injection molded polypropylene.001",
+      "basecolor": "original constant",
+      "roughness": 0.3400000035762787,
+      "normal": "cap_normal.001"
+    }
+  ],
+  "bounds_blender_m": [
+    [
+      -0.0512104257941246,
+      0.05108324810862541
+    ],
+    [
+      -0.021855462342500687,
+      0.02185540273785591
+    ],
+    [
+      0.000400000368244946,
+      0.19500000774860382
+    ]
+  ],
+  "dimensions_m": [
+    0.10229367390275002,
+    0.0437108650803566,
+    0.19460000738035887
+  ],
+  "product_meshes": 15,
+  "shape_preservation": "Exact evaluated current world-space vertices; shape keys, solidify, subdivision, bevel and curve conversion frozen in export copies only.",
+  "exclusions": [
+    "Dark_studio_floor (200x200 m)",
+    "SHAPE_BACKUP_before_polish meshes",
+    "reference images",
+    "artwork helpers",
+    "cameras",
+    "studio lights"
+  ]
+}

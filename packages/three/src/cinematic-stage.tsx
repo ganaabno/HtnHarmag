@@ -43,6 +43,7 @@ import {
   type InspectionState,
 } from "./interaction";
 import { Berry, NativePlant, useBotanicalAssets } from "./botanicals";
+import { modelRegistry } from "./model-registry";
 export interface SceneTimeline {
   progress: number;
   reduced: boolean;
@@ -136,7 +137,7 @@ export function Model({
   );
 }
 export function preloadProducts() {
-  useGLTF.preload("/models/sergeenee.glb");
+  useGLTF.preload(modelRegistry.sergeenee.url);
 }
 export function Lights({ night = false }: { night?: boolean }) {
   return (
@@ -360,7 +361,7 @@ function StoryScene({
       <group ref={stage} scale={0.8} position={[0, -0.3, 0]}>
         <group ref={spin}>
           <Suspense fallback={null}>
-            <Model url="/models/sergeenee.glb" onBounds={bounds} />
+            <Model url={modelRegistry.sergeenee.url} onBounds={bounds} />
           </Suspense>
         </group>
       </group>
@@ -563,7 +564,7 @@ function FooterScene({
         scale={mobile ? 1.02 : 1.13}
       >
         <Suspense fallback={null}>
-          <Model url="/models/sergeenee.glb" />
+          <Model url={modelRegistry.sergeenee.url} />
         </Suspense>
       </group>
       <ContactShadows

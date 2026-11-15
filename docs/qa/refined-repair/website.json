@@ -1,0 +1,14 @@
+{
+  "home": {
+    "url": "http://127.0.0.1:5174/models/sergeenee_surface_refined_repaired.glb",
+    "bytes": 18704556,
+    "sha256": "870a2f2c6c1977714927e71a521ebbf3225362b3281b9ec1f77a757d0643f9dd",
+    "errors": []
+  },
+  "product": {
+    "url": "http://127.0.0.1:5174/models/sergeenee_surface_refined_repaired.glb",
+    "bytes": 18704556,
+    "sha256": "870a2f2c6c1977714927e71a521ebbf3225362b3281b9ec1f77a757d0643f9dd",
+    "errors": []
+  }
+}

@@ -1,0 +1,1647 @@
+{
+  "source": "C:\\Users\\77\\dev\\blender\\refined_glb_repair\\source_snapshot.blend",
+  "objects": [
+    {
+      "name": "Pouch_front_panel",
+      "vertices": 65986,
+      "faces": 65984,
+      "modifiers": [
+        [
+          "SOLIDIFY",
+          true,
+          true
+        ],
+        [
+          "SUBSURF",
+          true,
+          true
+        ]
+      ],
+      "shape_values": {
+        "Original_rigid_pouch_BACKUP": 1.0,
+        "Flexible_laminate_refinement": 1.0,
+        "Premium_soft_shape_polish": 1.0,
+        "Hatan_reference_filled_laminate": 1.0,
+        "Premium_surface_refinement": 1.0
+      },
+      "position_sha256": "a1d17280dee97129bcb8da390c22ccc762d5bf4ac24507df2f91f5b7fdbd6224",
+      "duplicate_faces": 0,
+      "zero_area_faces": 0,
+      "nonmanifold_edges": 0,
+      "nonfinite_vertices": 0,
+      "material_faces": {
+        "Heat weld • flattened embossed laminate": 8864,
+        "FINAL_front_printed_PET": 57120
+      },
+      "uv_layers": [
+        {
+          "name": "Front_Artwork_UV",
+          "active_render": true
+        }
+      ],
+      "uv_sha256": "249577d3f9dc2654b1b39e723a57cffe039eeff2c404a1af936423f8b1b07667",
+      "uv_range": [
+        [
+          0.0,
+          1.0000001192092896
+        ],
+        [
+          0.0,
+          1.0000001192092896
+        ]
+      ],
+      "nonfinite_uvs": 0
+    },
+    {
+      "name": "Pouch_back_panel",
+      "vertices": 65986,
+      "faces": 65984,
+      "modifiers": [
+        [
+          "SOLIDIFY",
+          true,
+          true
+        ],
+        [
+          "SUBSURF",
+          true,
+          true
+        ]
+      ],
+      "shape_values": {
+        "Original_rigid_pouch_BACKUP": 1.0,
+        "Flexible_laminate_refinement": 1.0,
+        "Premium_soft_shape_polish": 1.0,
+        "Hatan_reference_filled_laminate": 1.0,
+        "Premium_surface_refinement": 1.0
+      },
+      "position_sha256": "a218a3bba601d8327631456d5ba9e326c77ab356bfa80f86c785f92a3df3293d",
+      "duplicate_faces": 0,
+      "zero_area_faces": 0,
+      "nonmanifold_edges": 0,
+      "nonfinite_vertices": 0,
+      "material_faces": {
+        "Heat weld • flattened embossed laminate": 8864,
+        "FINAL_back_printed_PET": 57120
+      },
+      "uv_layers": [
+        {
+          "name": "Back_Artwork_UV",
+          "active_render": true
+        }
+      ],
+      "uv_sha256": "ba1f52c9375a643fe1b6619f151c1fdf78eb8c81085a20391cf7979775b0e662",
+      "uv_range": [
+        [
+          0.0,
+          1.0000001192092896
+        ],
+        [
+          0.0,
+          1.0000001192092896
+        ]
+      ],
+      "nonfinite_uvs": 0
+    },
+    {
+      "name": "Narrow_continuous_heat_weld",
+      "vertices": 618,
+      "faces": 318,
+      "modifiers": [],
+      "shape_values": {},
+      "position_sha256": "9b6be7b635ee24120d9307c6a698fd65d6812f82752896a2dea17aaa3075a9e9",
+      "duplicate_faces": 0,
+      "zero_area_faces": 0,
+      "nonmanifold_edges": 596,
+      "nonfinite_vertices": 0,
+      "material_faces": {
+        "Heat weld • flattened embossed laminate": 318
+      },
+      "uv_layers": [
+        {
+          "name": "Seam_Gusset_UV",
+          "active_render": true
+        }
+      ],
+      "uv_sha256": "2fe8fcfa3a9e9b00beaf8a51c7c64329cbebc934c9ef15d5e4abc8c486bad13f",
+      "uv_range": [
+        [
+          0.0010914653539657593,
+          0.998908519744873
+        ],
+        [
+          5.937181302151373e-10,
+          1.004062533378601
+        ]
+      ],
+      "nonfinite_uvs": 0
+    },
+    {
+      "name": "Bottom_gusset_inward_W_fold",
+      "vertices": 6658,
+      "faces": 6656,
+      "modifiers": [
+        [
+          "SOLIDIFY",
+          true,
+          true
+        ],
+        [
+          "SUBSURF",
+          true,
+          true
+        ]
+      ],
+      "shape_values": {},
+      "position_sha256": "6e5298d727dd2c4b48357ac76bbcc22ee0c39011ac353f5a1562c3c4a4ccef06",
+      "duplicate_faces": 0,
+      "zero_area_faces": 0,
+      "nonmanifold_edges": 0,
+      "nonfinite_vertices": 0,
+      "material_faces": {
+        "PET laminate • supplied PBR • subtle film": 6656
+      },
+      "uv_layers": [
+        {
+          "name": "Seam_Gusset_UV",
+          "active_render": true
+        }
+      ],
+      "uv_sha256": "4d5502826ccc0b056fe4eaf931efcc28cb7abdb135670bc90001eef5b71666c7",
+      "uv_range": [
+        [
+          0.05699998885393143,
+          0.9430001974105835
+        ],
+        [
+          0.09156248718500137,
+          0.9084376692771912
+        ]
+      ],
+      "nonfinite_uvs": 0
+    },
+    {
+      "name": "Tamper_evident_band",
+      "vertices": 768,
+      "faces": 674,
+      "modifiers": [
+        [
+          "BEVEL",
+          true,
+          true
+        ]
+      ],
+      "shape_values": {},
+      "position_sha256": "cb8a5af809fca7e6073236adaa5cae9ce5cd5b3d9e10ad8ec275d34de731b8eb",
+      "duplicate_faces": 0,
+      "zero_area_faces": 0,
+      "nonmanifold_edges": 0,
+      "nonfinite_vertices": 0,
+      "material_faces": {
+        "Cap • off-white injection molded polypropylene": 674
+      },
+      "uv_layers": [
+        {
+          "name": "UVMap",
+          "active_render": true
+        }
+      ],
+      "uv_sha256": "7e60f190e0eaf80f0cdcacbb12bc8a23208266f83b1a41a7fbcb3b82513a5934",
+      "uv_range": [
+        [
+          -7.469207048416138e-07,
+          1.0
+        ],
+        [
+          0.010000995360314846,
+          1.0
+        ]
+      ],
+      "nonfinite_uvs": 0
+    },
+    {
+      "name": "Screw_cap_ribbed_shell",
+      "vertices": 768,
+      "faces": 674,
+      "modifiers": [
+        [
+          "BEVEL",
+          true,
+          true
+        ]
+      ],
+      "shape_values": {},
+      "position_sha256": "176568bd3a5f39395acfa55820cf6f80f7cb2850148bf8f96e279feaac358ec0",
+      "duplicate_faces": 0,
+      "zero_area_faces": 0,
+      "nonmanifold_edges": 0,
+      "nonfinite_vertices": 0,
+      "material_faces": {
+        "Cap • off-white injection molded polypropylene": 674
+      },
+      "uv_layers": [
+        {
+          "name": "UVMap",
+          "active_render": true
+        }
+      ],
+      "uv_sha256": "e6095ae4d8ad0f956123e05f88b0957f73e1643581f453527f07f7a868139ad1",
+      "uv_range": [
+        [
+          -7.469207048416138e-07,
+          1.0
+        ],
+        [
+          0.01000106893479824,
+          1.0
+        ]
+      ],
+      "nonfinite_uvs": 0
+    },
+    {
+      "name": "Cap_crown",
+      "vertices": 768,
+      "faces": 674,
+      "modifiers": [
+        [
+          "BEVEL",
+          true,
+          true
+        ]
+      ],
+      "shape_values": {},
+      "position_sha256": "b0911466ec6f9a863e54c3c67420fd9a622f41ce596e6141a35802ecf0eb20df",
+      "duplicate_faces": 0,
+      "zero_area_faces": 0,
+      "nonmanifold_edges": 0,
+      "nonfinite_vertices": 0,
+      "material_faces": {
+        "Cap • off-white injection molded polypropylene": 674
+      },
+      "uv_layers": [
+        {
+          "name": "UVMap",
+          "active_render": true
+        }
+      ],
+      "uv_sha256": "348ef54de022039e351317cf139c2c091aae41d10cb51415ce9df6a0052c45d6",
+      "uv_range": [
+        [
+          -7.469207048416138e-07,
+          1.0
+        ],
+        [
+          0.010001072660088539,
+          1.0
+        ]
+      ],
+      "nonfinite_uvs": 0
+    },
+    {
+      "name": "Cap_64_vertical_grip_ribs",
+      "vertices": 3584,
+      "faces": 3456,
+      "modifiers": [
+        [
+          "BEVEL",
+          true,
+          true
+        ]
+      ],
+      "shape_values": {},
+      "position_sha256": "049769ea4334e532336f372f1a7cbadd23cf405b9966297127e94fc28aff557a",
+      "duplicate_faces": 0,
+      "zero_area_faces": 0,
+      "nonmanifold_edges": 0,
+      "nonfinite_vertices": 0,
+      "material_faces": {
+        "Cap • off-white injection molded polypropylene": 3456
+      },
+      "uv_layers": [
+        {
+          "name": "Cylindrical_UV",
+          "active_render": true
+        }
+      ],
+      "uv_sha256": "d6244baa3f4e9bdcf081db3316df5ae717539b14f93f1709d73a0d4ab3cbf2dd",
+      "uv_range": [
+        [
+          0.0019098591292276978,
+          0.9980901479721069
+        ],
+        [
+          0.045454591512680054,
+          0.8772727251052856
+        ]
+      ],
+      "nonfinite_uvs": 0
+    },
+    {
+      "name": "Spout_welded_boat_flange",
+      "vertices": 768,
+      "faces": 674,
+      "modifiers": [
+        [
+          "BEVEL",
+          true,
+          true
+        ]
+      ],
+      "shape_values": {},
+      "position_sha256": "a37b0e5ab39149aaa1d8b8c2ba230895d0dc2fe6dfcc4b59f4ee4629ce0cec0c",
+      "duplicate_faces": 0,
+      "zero_area_faces": 0,
+      "nonmanifold_edges": 0,
+      "nonfinite_vertices": 0,
+      "material_faces": {
+        "Cap • off-white injection molded polypropylene": 674
+      },
+      "uv_layers": [
+        {
+          "name": "UVMap",
+          "active_render": true
+        }
+      ],
+      "uv_sha256": "9866163f880e6b982c3cc57c437253f3f64bcb26a3b52a2c81d13bec6e5a749e",
+      "uv_range": [
+        [
+          -7.469207048416138e-07,
+          1.0
+        ],
+        [
+          0.010000918060541153,
+          1.0
+        ]
+      ],
+      "nonfinite_uvs": 0
+    },
+    {
+      "name": "Centered_neck",
+      "vertices": 768,
+      "faces": 674,
+      "modifiers": [
+        [
+          "BEVEL",
+          true,
+          true
+        ]
+      ],
+      "shape_values": {},
+      "position_sha256": "90ffef52782288caab919f382e5aa6ef35391bff647caa3c2c96d433de8451fe",
+      "duplicate_faces": 0,
+      "zero_area_faces": 0,
+      "nonmanifold_edges": 0,
+      "nonfinite_vertices": 0,
+      "material_faces": {
+        "Cap • off-white injection molded polypropylene": 674
+      },
+      "uv_layers": [
+        {
+          "name": "UVMap",
+          "active_render": true
+        }
+      ],
+      "uv_sha256": "9bca392b1608bdde5f6d6fa771695ba2219d971520c35c5838aec64102b63184",
+      "uv_range": [
+        [
+          -7.469207048416138e-07,
+          1.0
+        ],
+        [
+          0.010001570917665958,
+          1.0
+        ]
+      ],
+      "nonfinite_uvs": 0
+    },
+    {
+      "name": "Spout_retaining_ring",
+      "vertices": 768,
+      "faces": 674,
+      "modifiers": [
+        [
+          "BEVEL",
+          true,
+          true
+        ]
+      ],
+      "shape_values": {},
+      "position_sha256": "808cd43ade85ff8571bad87cdb747b19cfc0f65b20ff5537b47d300dd7a93399",
+      "duplicate_faces": 0,
+      "zero_area_faces": 0,
+      "nonmanifold_edges": 0,
+      "nonfinite_vertices": 0,
+      "material_faces": {
+        "Cap • off-white injection molded polypropylene": 674
+      },
+      "uv_layers": [
+        {
+          "name": "UVMap",
+          "active_render": true
+        }
+      ],
+      "uv_sha256": "7a5ab4a3c123344057e5bc3a922cb6b7e9eef5a0c738b08a07fc3a7ab2813152",
+      "uv_range": [
+        [
+          -7.469207048416138e-07,
+          1.0
+        ],
+        [
+          0.01000106893479824,
+          1.0
+        ]
+      ],
+      "nonfinite_uvs": 0
+    },
+    {
+      "name": "Spout_retaining_ring.001",
+      "vertices": 768,
+      "faces": 674,
+      "modifiers": [
+        [
+          "BEVEL",
+          true,
+          true
+        ]
+      ],
+      "shape_values": {},
+      "position_sha256": "5378beb0ec51758cb85cb0b1d3394e0336a9857a5c2cfe6d74effa4fdd2b43bc",
+      "duplicate_faces": 0,
+      "zero_area_faces": 0,
+      "nonmanifold_edges": 0,
+      "nonfinite_vertices": 0,
+      "material_faces": {
+        "Cap • off-white injection molded polypropylene": 674
+      },
+      "uv_layers": [
+        {
+          "name": "UVMap",
+          "active_render": true
+        }
+      ],
+      "uv_sha256": "a8498e0468264b45bbff4a20b7823d8e86c8f0e80ad4722233205090c4e15dd4",
+      "uv_range": [
+        [
+          -7.469207048416138e-07,
+          1.0
+        ],
+        [
+          0.010001138783991337,
+          1.0
+        ]
+      ],
+      "nonfinite_uvs": 0
+    },
+    {
+      "name": "Spout_retaining_ring.002",
+      "vertices": 768,
+      "faces": 674,
+      "modifiers": [
+        [
+          "BEVEL",
+          true,
+          true
+        ]
+      ],
+      "shape_values": {},
+      "position_sha256": "67770745750e61518cb3bf9a7f14a891559e783ef85b095524f291b06ba207d7",
+      "duplicate_faces": 0,
+      "zero_area_faces": 0,
+      "nonmanifold_edges": 0,
+      "nonfinite_vertices": 0,
+      "material_faces": {
+        "Cap • off-white injection molded polypropylene": 674
+      },
+      "uv_layers": [
+        {
+          "name": "UVMap",
+          "active_render": true
+        }
+      ],
+      "uv_sha256": "cd2b4624a930c429e966d93031fc2e8ca691aea996794b62e055e4b2618becdc",
+      "uv_range": [
+        [
+          -7.469207048416138e-07,
+          1.0
+        ],
+        [
+          0.010001100599765778,
+          1.0
+        ]
+      ],
+      "nonfinite_uvs": 0
+    },
+    {
+      "name": "Spout_retaining_ring.003",
+      "vertices": 768,
+      "faces": 674,
+      "modifiers": [
+        [
+          "BEVEL",
+          true,
+          true
+        ]
+      ],
+      "shape_values": {},
+      "position_sha256": "2a47ae1e5d7e8e8259f936a944fac3174d7a22e171dfd8c99003a6ef49454c86",
+      "duplicate_faces": 0,
+      "zero_area_faces": 0,
+      "nonmanifold_edges": 0,
+      "nonfinite_vertices": 0,
+      "material_faces": {
+        "Cap • off-white injection molded polypropylene": 674
+      },
+      "uv_layers": [
+        {
+          "name": "UVMap",
+          "active_render": true
+        }
+      ],
+      "uv_sha256": "f7f9aa9c38cc43ed33bae6bf8783a57e12d1957055b35627b0d5592c678fbf9a",
+      "uv_range": [
+        [
+          -7.469207048416138e-07,
+          1.0
+        ],
+        [
+          0.010001027025282383,
+          1.0
+        ]
+      ],
+      "nonfinite_uvs": 0
+    },
+    {
+      "name": "Spout_screw_thread_2_5_turns",
+      "vertices": 2560,
+      "faces": 2550,
+      "modifiers": [],
+      "shape_values": {},
+      "position_sha256": "5bad4f71acbeb7584fb5f2dcbf84212e105febc639219fca003b90dd423791dd",
+      "duplicate_faces": 0,
+      "zero_area_faces": 0,
+      "nonmanifold_edges": 20,
+      "nonfinite_vertices": 0,
+      "material_faces": {
+        "Cap • off-white injection molded polypropylene": 2550
+      },
+      "uv_layers": [
+        {
+          "name": "UVMap",
+          "active_render": true
+        }
+      ],
+      "uv_sha256": "4ea731ccc5e68ae9e8ce15b83e258736c549c52e8f2432f84ed7fe3d3f2ef457",
+      "uv_range": [
+        [
+          0.0,
+          1.0
+        ],
+        [
+          0.0,
+          1.0
+        ]
+      ],
+      "nonfinite_uvs": 0
+    }
+  ],
+  "materials": [
+    {
+      "name": "FINAL_front_printed_PET",
+      "inputs": {
+        "Base Color": {
+          "default": [
+            0.5,
+            0.019999999552965164,
+            0.00800000037997961,
+            1.0
+          ],
+          "links": [
+            [
+              "MIX_RGB",
+              "Color"
+            ]
+          ]
+        },
+        "Metallic": {
+          "default": 0.0,
+          "links": []
+        },
+        "Roughness": {
+          "default": 0.27000001072883606,
+          "links": [
+            [
+              "MAP_RANGE",
+              "Result"
+            ]
+          ]
+        },
+        "Alpha": {
+          "default": 1.0,
+          "links": []
+        },
+        "Normal": {
+          "default": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "links": [
+            [
+              "BUMP",
+              "Normal"
+            ]
+          ]
+        },
+        "Coat Weight": {
+          "default": 0.28999999165534973,
+          "links": []
+        },
+        "Coat Roughness": {
+          "default": 0.1899999976158142,
+          "links": []
+        },
+        "Coat Normal": {
+          "default": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "links": []
+        }
+      },
+      "nodes": [
+        [
+          "Principled BSDF",
+          "BSDF_PRINCIPLED"
+        ],
+        [
+          "Material Output",
+          "OUTPUT_MATERIAL"
+        ],
+        [
+          "Image Texture",
+          "TEX_IMAGE"
+        ],
+        [
+          "Image Texture.001",
+          "TEX_IMAGE"
+        ],
+        [
+          "Map Range",
+          "MAP_RANGE"
+        ],
+        [
+          "Image Texture.002",
+          "TEX_IMAGE"
+        ],
+        [
+          "Normal Map",
+          "NORMAL_MAP"
+        ],
+        [
+          "Image Texture.003",
+          "TEX_IMAGE"
+        ],
+        [
+          "Bump",
+          "BUMP"
+        ],
+        [
+          "Image Texture.004",
+          "TEX_IMAGE"
+        ],
+        [
+          "Mix (Legacy)",
+          "MIX_RGB"
+        ]
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Image Texture.001",
+          "Color",
+          "Map Range",
+          "Value"
+        ],
+        [
+          "Map Range",
+          "Result",
+          "Principled BSDF",
+          "Roughness"
+        ],
+        [
+          "Image Texture.002",
+          "Color",
+          "Normal Map",
+          "Color"
+        ],
+        [
+          "Image Texture.003",
+          "Color",
+          "Bump",
+          "Height"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Bump",
+          "Normal"
+        ],
+        [
+          "Bump",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Image Texture.004",
+          "Alpha",
+          "Mix (Legacy)",
+          "Factor"
+        ],
+        [
+          "Image Texture",
+          "Color",
+          "Mix (Legacy)",
+          "Color1"
+        ],
+        [
+          "Image Texture.004",
+          "Color",
+          "Mix (Legacy)",
+          "Color2"
+        ],
+        [
+          "Mix (Legacy)",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ]
+      ],
+      "images": [
+        {
+          "name": "pouch_red_basecolor_1024.png",
+          "size": [
+            1024,
+            1024
+          ],
+          "color_space": "sRGB",
+          "packed": true,
+          "vector_links": []
+        },
+        {
+          "name": "pouch_roughness_1024.png",
+          "size": [
+            1024,
+            1024
+          ],
+          "color_space": "Non-Color",
+          "packed": true,
+          "vector_links": []
+        },
+        {
+          "name": "pouch_wrinkle_normal_1024.png",
+          "size": [
+            1024,
+            1024
+          ],
+          "color_space": "Non-Color",
+          "packed": true,
+          "vector_links": []
+        },
+        {
+          "name": "pouch_wrinkle_height_1024.png",
+          "size": [
+            1024,
+            1024
+          ],
+          "color_space": "Non-Color",
+          "packed": true,
+          "vector_links": []
+        },
+        {
+          "name": "front_print_master.png",
+          "size": [
+            2400,
+            3840
+          ],
+          "color_space": "sRGB",
+          "packed": true,
+          "vector_links": []
+        }
+      ]
+    },
+    {
+      "name": "Heat weld • flattened embossed laminate",
+      "inputs": {
+        "Base Color": {
+          "default": [
+            0.5,
+            0.019999999552965164,
+            0.00800000037997961,
+            1.0
+          ],
+          "links": [
+            [
+              "TEX_IMAGE",
+              "Color"
+            ]
+          ]
+        },
+        "Metallic": {
+          "default": 0.0,
+          "links": []
+        },
+        "Roughness": {
+          "default": 0.3199999928474426,
+          "links": []
+        },
+        "Alpha": {
+          "default": 1.0,
+          "links": []
+        },
+        "Normal": {
+          "default": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "links": [
+            [
+              "BUMP",
+              "Normal"
+            ]
+          ]
+        },
+        "Coat Weight": {
+          "default": 0.23999999463558197,
+          "links": []
+        },
+        "Coat Roughness": {
+          "default": 0.2199999988079071,
+          "links": []
+        },
+        "Coat Normal": {
+          "default": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "links": []
+        }
+      },
+      "nodes": [
+        [
+          "Principled BSDF",
+          "BSDF_PRINCIPLED"
+        ],
+        [
+          "Material Output",
+          "OUTPUT_MATERIAL"
+        ],
+        [
+          "Image Texture",
+          "TEX_IMAGE"
+        ],
+        [
+          "Image Texture.001",
+          "TEX_IMAGE"
+        ],
+        [
+          "Map Range",
+          "MAP_RANGE"
+        ],
+        [
+          "Image Texture.002",
+          "TEX_IMAGE"
+        ],
+        [
+          "Normal Map",
+          "NORMAL_MAP"
+        ],
+        [
+          "Image Texture.003",
+          "TEX_IMAGE"
+        ],
+        [
+          "Bump",
+          "BUMP"
+        ],
+        [
+          "Texture Coordinate",
+          "TEX_COORD"
+        ],
+        [
+          "Wave Texture",
+          "TEX_WAVE"
+        ],
+        [
+          "Wave Texture.001",
+          "TEX_WAVE"
+        ],
+        [
+          "Math",
+          "MATH"
+        ],
+        [
+          "Bump.001",
+          "BUMP"
+        ]
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Image Texture",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ],
+        [
+          "Image Texture.001",
+          "Color",
+          "Map Range",
+          "Value"
+        ],
+        [
+          "Image Texture.002",
+          "Color",
+          "Normal Map",
+          "Color"
+        ],
+        [
+          "Image Texture.003",
+          "Color",
+          "Bump",
+          "Height"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Bump",
+          "Normal"
+        ],
+        [
+          "Texture Coordinate",
+          "UV",
+          "Wave Texture",
+          "Vector"
+        ],
+        [
+          "Texture Coordinate",
+          "UV",
+          "Wave Texture.001",
+          "Vector"
+        ],
+        [
+          "Wave Texture",
+          "Color",
+          "Math",
+          "Value"
+        ],
+        [
+          "Wave Texture.001",
+          "Color",
+          "Math",
+          "Value"
+        ],
+        [
+          "Bump",
+          "Normal",
+          "Bump.001",
+          "Normal"
+        ],
+        [
+          "Math",
+          "Value",
+          "Bump.001",
+          "Height"
+        ],
+        [
+          "Bump.001",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ]
+      ],
+      "images": [
+        {
+          "name": "pouch_red_basecolor_1024.png",
+          "size": [
+            1024,
+            1024
+          ],
+          "color_space": "sRGB",
+          "packed": true,
+          "vector_links": []
+        },
+        {
+          "name": "pouch_roughness_1024.png",
+          "size": [
+            1024,
+            1024
+          ],
+          "color_space": "Non-Color",
+          "packed": true,
+          "vector_links": []
+        },
+        {
+          "name": "pouch_wrinkle_normal_1024.png",
+          "size": [
+            1024,
+            1024
+          ],
+          "color_space": "Non-Color",
+          "packed": true,
+          "vector_links": []
+        },
+        {
+          "name": "pouch_wrinkle_height_1024.png",
+          "size": [
+            1024,
+            1024
+          ],
+          "color_space": "Non-Color",
+          "packed": true,
+          "vector_links": []
+        }
+      ]
+    },
+    {
+      "name": "FINAL_back_printed_PET",
+      "inputs": {
+        "Base Color": {
+          "default": [
+            0.5,
+            0.019999999552965164,
+            0.00800000037997961,
+            1.0
+          ],
+          "links": [
+            [
+              "MIX_RGB",
+              "Color"
+            ]
+          ]
+        },
+        "Metallic": {
+          "default": 0.0,
+          "links": []
+        },
+        "Roughness": {
+          "default": 0.27000001072883606,
+          "links": [
+            [
+              "MAP_RANGE",
+              "Result"
+            ]
+          ]
+        },
+        "Alpha": {
+          "default": 1.0,
+          "links": []
+        },
+        "Normal": {
+          "default": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "links": [
+            [
+              "BUMP",
+              "Normal"
+            ]
+          ]
+        },
+        "Coat Weight": {
+          "default": 0.28999999165534973,
+          "links": []
+        },
+        "Coat Roughness": {
+          "default": 0.1899999976158142,
+          "links": []
+        },
+        "Coat Normal": {
+          "default": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "links": []
+        }
+      },
+      "nodes": [
+        [
+          "Principled BSDF",
+          "BSDF_PRINCIPLED"
+        ],
+        [
+          "Material Output",
+          "OUTPUT_MATERIAL"
+        ],
+        [
+          "Image Texture",
+          "TEX_IMAGE"
+        ],
+        [
+          "Image Texture.001",
+          "TEX_IMAGE"
+        ],
+        [
+          "Map Range",
+          "MAP_RANGE"
+        ],
+        [
+          "Image Texture.002",
+          "TEX_IMAGE"
+        ],
+        [
+          "Normal Map",
+          "NORMAL_MAP"
+        ],
+        [
+          "Image Texture.003",
+          "TEX_IMAGE"
+        ],
+        [
+          "Bump",
+          "BUMP"
+        ],
+        [
+          "Image Texture.004",
+          "TEX_IMAGE"
+        ],
+        [
+          "Mix (Legacy)",
+          "MIX_RGB"
+        ],
+        [
+          "Image Texture.005",
+          "TEX_IMAGE"
+        ],
+        [
+          "Mix (Legacy).001",
+          "MIX_RGB"
+        ]
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Image Texture.001",
+          "Color",
+          "Map Range",
+          "Value"
+        ],
+        [
+          "Map Range",
+          "Result",
+          "Principled BSDF",
+          "Roughness"
+        ],
+        [
+          "Image Texture.002",
+          "Color",
+          "Normal Map",
+          "Color"
+        ],
+        [
+          "Image Texture.003",
+          "Color",
+          "Bump",
+          "Height"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Bump",
+          "Normal"
+        ],
+        [
+          "Bump",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Image Texture.004",
+          "Alpha",
+          "Mix (Legacy)",
+          "Factor"
+        ],
+        [
+          "Image Texture",
+          "Color",
+          "Mix (Legacy)",
+          "Color1"
+        ],
+        [
+          "Image Texture.004",
+          "Color",
+          "Mix (Legacy)",
+          "Color2"
+        ],
+        [
+          "Image Texture.005",
+          "Alpha",
+          "Mix (Legacy).001",
+          "Factor"
+        ],
+        [
+          "Mix (Legacy)",
+          "Color",
+          "Mix (Legacy).001",
+          "Color1"
+        ],
+        [
+          "Image Texture.005",
+          "Color",
+          "Mix (Legacy).001",
+          "Color2"
+        ],
+        [
+          "Mix (Legacy).001",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ]
+      ],
+      "images": [
+        {
+          "name": "pouch_red_basecolor_1024.png",
+          "size": [
+            1024,
+            1024
+          ],
+          "color_space": "sRGB",
+          "packed": true,
+          "vector_links": []
+        },
+        {
+          "name": "pouch_roughness_1024.png",
+          "size": [
+            1024,
+            1024
+          ],
+          "color_space": "Non-Color",
+          "packed": true,
+          "vector_links": []
+        },
+        {
+          "name": "pouch_wrinkle_normal_1024.png",
+          "size": [
+            1024,
+            1024
+          ],
+          "color_space": "Non-Color",
+          "packed": true,
+          "vector_links": []
+        },
+        {
+          "name": "pouch_wrinkle_height_1024.png",
+          "size": [
+            1024,
+            1024
+          ],
+          "color_space": "Non-Color",
+          "packed": true,
+          "vector_links": []
+        },
+        {
+          "name": "back_print_master.png",
+          "size": [
+            1800,
+            2880
+          ],
+          "color_space": "sRGB",
+          "packed": true,
+          "vector_links": []
+        },
+        {
+          "name": "back_COPY_PENDING_layer.png",
+          "size": [
+            1800,
+            2880
+          ],
+          "color_space": "sRGB",
+          "packed": true,
+          "vector_links": []
+        }
+      ]
+    },
+    {
+      "name": "PET laminate • supplied PBR • subtle film",
+      "inputs": {
+        "Base Color": {
+          "default": [
+            0.5,
+            0.019999999552965164,
+            0.00800000037997961,
+            1.0
+          ],
+          "links": [
+            [
+              "TEX_IMAGE",
+              "Color"
+            ]
+          ]
+        },
+        "Metallic": {
+          "default": 0.0,
+          "links": []
+        },
+        "Roughness": {
+          "default": 0.27000001072883606,
+          "links": [
+            [
+              "MAP_RANGE",
+              "Result"
+            ]
+          ]
+        },
+        "Alpha": {
+          "default": 1.0,
+          "links": []
+        },
+        "Normal": {
+          "default": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "links": [
+            [
+              "BUMP",
+              "Normal"
+            ]
+          ]
+        },
+        "Coat Weight": {
+          "default": 0.23999999463558197,
+          "links": []
+        },
+        "Coat Roughness": {
+          "default": 0.2199999988079071,
+          "links": []
+        },
+        "Coat Normal": {
+          "default": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "links": []
+        }
+      },
+      "nodes": [
+        [
+          "Principled BSDF",
+          "BSDF_PRINCIPLED"
+        ],
+        [
+          "Material Output",
+          "OUTPUT_MATERIAL"
+        ],
+        [
+          "Image Texture",
+          "TEX_IMAGE"
+        ],
+        [
+          "Image Texture.001",
+          "TEX_IMAGE"
+        ],
+        [
+          "Map Range",
+          "MAP_RANGE"
+        ],
+        [
+          "Image Texture.002",
+          "TEX_IMAGE"
+        ],
+        [
+          "Normal Map",
+          "NORMAL_MAP"
+        ],
+        [
+          "Image Texture.003",
+          "TEX_IMAGE"
+        ],
+        [
+          "Bump",
+          "BUMP"
+        ]
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Image Texture",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ],
+        [
+          "Image Texture.001",
+          "Color",
+          "Map Range",
+          "Value"
+        ],
+        [
+          "Map Range",
+          "Result",
+          "Principled BSDF",
+          "Roughness"
+        ],
+        [
+          "Image Texture.002",
+          "Color",
+          "Normal Map",
+          "Color"
+        ],
+        [
+          "Image Texture.003",
+          "Color",
+          "Bump",
+          "Height"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Bump",
+          "Normal"
+        ],
+        [
+          "Bump",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ]
+      ],
+      "images": [
+        {
+          "name": "pouch_red_basecolor_1024.png",
+          "size": [
+            1024,
+            1024
+          ],
+          "color_space": "sRGB",
+          "packed": true,
+          "vector_links": []
+        },
+        {
+          "name": "pouch_roughness_1024.png",
+          "size": [
+            1024,
+            1024
+          ],
+          "color_space": "Non-Color",
+          "packed": true,
+          "vector_links": []
+        },
+        {
+          "name": "pouch_wrinkle_normal_1024.png",
+          "size": [
+            1024,
+            1024
+          ],
+          "color_space": "Non-Color",
+          "packed": true,
+          "vector_links": []
+        },
+        {
+          "name": "pouch_wrinkle_height_1024.png",
+          "size": [
+            1024,
+            1024
+          ],
+          "color_space": "Non-Color",
+          "packed": true,
+          "vector_links": []
+        }
+      ]
+    },
+    {
+      "name": "Cap • off-white injection molded polypropylene",
+      "inputs": {
+        "Base Color": {
+          "default": [
+            0.9100000262260437,
+            0.8999999761581421,
+            0.8700000047683716,
+            1.0
+          ],
+          "links": []
+        },
+        "Metallic": {
+          "default": 0.0,
+          "links": []
+        },
+        "Roughness": {
+          "default": 0.3400000035762787,
+          "links": []
+        },
+        "Alpha": {
+          "default": 1.0,
+          "links": []
+        },
+        "Normal": {
+          "default": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "links": [
+            [
+              "BUMP",
+              "Normal"
+            ]
+          ]
+        },
+        "Coat Weight": {
+          "default": 0.0,
+          "links": []
+        },
+        "Coat Roughness": {
+          "default": 0.029999999329447746,
+          "links": []
+        },
+        "Coat Normal": {
+          "default": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "links": []
+        }
+      },
+      "nodes": [
+        [
+          "Principled BSDF",
+          "BSDF_PRINCIPLED"
+        ],
+        [
+          "Material Output",
+          "OUTPUT_MATERIAL"
+        ],
+        [
+          "Image Texture",
+          "TEX_IMAGE"
+        ],
+        [
+          "Bump",
+          "BUMP"
+        ]
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Image Texture",
+          "Color",
+          "Bump",
+          "Height"
+        ],
+        [
+          "Bump",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ]
+      ],
+      "images": [
+        {
+          "name": "cap_ribs_height_1024.png",
+          "size": [
+            1024,
+            1024
+          ],
+          "color_space": "Non-Color",
+          "packed": true,
+          "vector_links": []
+        }
+      ]
+    }
+  ]
+}

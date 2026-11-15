@@ -16,7 +16,10 @@ const dir = (s) => new URL(s, base);
 for (const d of ["models", "images", "documents"])
   await mkdir(dir(`apps/web/public/${d}`), { recursive: true });
 for (const [source, name] of [
-  ["sergeenee_product_FINAL.glb", "sergeenee.glb"],
+  [
+    "sergeenee_surface_refined_repaired.glb",
+    "sergeenee_surface_refined_repaired.glb",
+  ],
   ["qn_black_wolfberry.glb", "wolfberry.glb"],
 ]) {
   const io = new NodeIO()
@@ -25,7 +28,14 @@ for (const [source, name] of [
   const doc = await io.read(
     dir(`assets/${source}`).pathname.replace(/^\/([A-Z]:)/, "$1"),
   );
-  if (name === "sergeenee.glb") validateSergeeneeAsset(doc);
+  if (name === "sergeenee_surface_refined_repaired.glb") {
+    validateSergeeneeAsset(doc);
+    await copyFile(
+      dir(`assets/${source}`),
+      dir(`apps/web/public/models/${name}`),
+    );
+    continue;
+  }
   await MeshoptEncoder.ready;
   await doc.transform(
     dedup(),

@@ -1,0 +1,114 @@
+{
+  "objects": [
+    {
+      "source": "Bottom_gusset_inward_W_fold",
+      "imported": "Bottom_gusset_inward_W_fold.001",
+      "max_vertex_error_m": 0.0,
+      "max_reverse_vertex_error_m": 0.0,
+      "max_uv_error": 2.9802322387695312e-08
+    },
+    {
+      "source": "Cap_64_vertical_grip_ribs",
+      "imported": "Cap_64_vertical_grip_ribs.001",
+      "max_vertex_error_m": 0.0,
+      "max_reverse_vertex_error_m": 0.0,
+      "max_uv_error": 6.664001874625056e-08
+    },
+    {
+      "source": "Cap_crown",
+      "imported": "Cap_crown.001",
+      "max_vertex_error_m": 0.0,
+      "max_reverse_vertex_error_m": 0.0,
+      "max_uv_error": 5.960464477539063e-08
+    },
+    {
+      "source": "Centered_neck",
+      "imported": "Centered_neck.001",
+      "max_vertex_error_m": 0.0,
+      "max_reverse_vertex_error_m": 0.0,
+      "max_uv_error": 6.664001874625056e-08
+    },
+    {
+      "source": "Narrow_continuous_heat_weld",
+      "imported": "Narrow_continuous_heat_weld.001",
+      "max_vertex_error_m": 0.0,
+      "max_reverse_vertex_error_m": 0.0,
+      "max_uv_error": 2.9802322387695312e-08
+    },
+    {
+      "source": "Pouch_back_panel",
+      "imported": "Pouch_back_panel.001",
+      "max_vertex_error_m": 0.0,
+      "max_reverse_vertex_error_m": 0.0,
+      "max_uv_error": 2.9802322387695312e-08
+    },
+    {
+      "source": "Pouch_front_panel",
+      "imported": "Pouch_front_panel.001",
+      "max_vertex_error_m": 0.0,
+      "max_reverse_vertex_error_m": 0.0,
+      "max_uv_error": 2.9802322387695312e-08
+    },
+    {
+      "source": "Screw_cap_ribbed_shell",
+      "imported": "Screw_cap_ribbed_shell.001",
+      "max_vertex_error_m": 0.0,
+      "max_reverse_vertex_error_m": 0.0,
+      "max_uv_error": 5.960464477539063e-08
+    },
+    {
+      "source": "Spout_retaining_ring",
+      "imported": "Spout_retaining_ring.004",
+      "max_vertex_error_m": 0.0,
+      "max_reverse_vertex_error_m": 0.0,
+      "max_uv_error": 8.429369702178807e-08
+    },
+    {
+      "source": "Spout_retaining_ring.001",
+      "imported": "Spout_retaining_ring.005",
+      "max_vertex_error_m": 0.0,
+      "max_reverse_vertex_error_m": 0.0,
+      "max_uv_error": 8.429369702178807e-08
+    },
+    {
+      "source": "Spout_retaining_ring.002",
+      "imported": "Spout_retaining_ring.006",
+      "max_vertex_error_m": 0.0,
+      "max_reverse_vertex_error_m": 0.0,
+      "max_uv_error": 8.429369702178807e-08
+    },
+    {
+      "source": "Spout_retaining_ring.003",
+      "imported": "Spout_retaining_ring.007",
+      "max_vertex_error_m": 0.0,
+      "max_reverse_vertex_error_m": 0.0,
+      "max_uv_error": 8.429369702178807e-08
+    },
+    {
+      "source": "Spout_screw_thread_2_5_turns",
+      "imported": "Spout_screw_thread_2_5_turns.001",
+      "max_vertex_error_m": 0.0,
+      "max_reverse_vertex_error_m": 0.0,
+      "max_uv_error": 2.9802322387695312e-08
+    },
+    {
+      "source": "Spout_welded_boat_flange",
+      "imported": "Spout_welded_boat_flange.001",
+      "max_vertex_error_m": 0.0,
+      "max_reverse_vertex_error_m": 0.0,
+      "max_uv_error": 5.960464477539063e-08
+    },
+    {
+      "source": "Tamper_evident_band",
+      "imported": "Tamper_evident_band.001",
+      "max_vertex_error_m": 0.0,
+      "max_reverse_vertex_error_m": 0.0,
+      "max_uv_error": 8.429369702178807e-08
+    }
+  ],
+  "dimensions_blender_m": [
+    0.10229367017745972,
+    0.0437108650803566,
+    0.19460000097751617
+  ]
+}

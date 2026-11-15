@@ -1,8 +1,8 @@
 /** Supplied packaging, with embedded original artwork. No synthetic variants. */
 export const modelRegistry = {
   sergeenee: {
-    url: "/models/sergeenee.glb",
-    original: "sergeenee_product_FINAL.glb",
+    url: "/models/sergeenee_surface_refined_repaired.glb",
+    original: "sergeenee_surface_refined_repaired.glb",
     image: "/images/sergeenee.png",
     front: -0.24,
     theme: "#efaa50",

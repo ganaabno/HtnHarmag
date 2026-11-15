@@ -1,0 +1,371 @@
+{
+  "sergeenee_surface_refined_repaired": {
+    "validator": {
+      "uri": "sergeenee_surface_refined_repaired.glb",
+      "mimeType": "model/gltf-binary",
+      "validatorVersion": "2.0.0-dev.3.10",
+      "validatedAt": "2026-11-15T11:15:54.760Z",
+      "issues": {
+        "numErrors": 0,
+        "numWarnings": 0,
+        "numInfos": 0,
+        "numHints": 0,
+        "messages": [],
+        "truncated": false
+      },
+      "info": {
+        "version": "2.0",
+        "generator": "Khronos glTF Blender I/O v5.2.41",
+        "extensionsUsed": [
+          "KHR_materials_clearcoat"
+        ],
+        "resources": [
+          {
+            "pointer": "/buffers/0",
+            "mimeType": "application/gltf-buffer",
+            "storage": "glb",
+            "byteLength": 18685648
+          },
+          {
+            "pointer": "/images/0",
+            "mimeType": "image/png",
+            "storage": "buffer-view",
+            "image": {
+              "width": 1024,
+              "height": 1024,
+              "format": "rgb",
+              "primaries": "srgb",
+              "transfer": "srgb",
+              "bits": 8
+            }
+          },
+          {
+            "pointer": "/images/1",
+            "mimeType": "image/png",
+            "storage": "buffer-view",
+            "image": {
+              "width": 1024,
+              "height": 1024,
+              "format": "rgb",
+              "primaries": "srgb",
+              "transfer": "srgb",
+              "bits": 8
+            }
+          },
+          {
+            "pointer": "/images/2",
+            "mimeType": "image/png",
+            "storage": "buffer-view",
+            "image": {
+              "width": 1024,
+              "height": 1024,
+              "format": "rgb",
+              "primaries": "srgb",
+              "transfer": "srgb",
+              "bits": 8
+            }
+          },
+          {
+            "pointer": "/images/3",
+            "mimeType": "image/png",
+            "storage": "buffer-view",
+            "image": {
+              "width": 1024,
+              "height": 1024,
+              "format": "rgb",
+              "primaries": "srgb",
+              "transfer": "srgb",
+              "bits": 8
+            }
+          },
+          {
+            "pointer": "/images/4",
+            "mimeType": "image/png",
+            "storage": "buffer-view",
+            "image": {
+              "width": 1024,
+              "height": 1024,
+              "format": "rgb",
+              "primaries": "srgb",
+              "transfer": "srgb",
+              "bits": 8
+            }
+          },
+          {
+            "pointer": "/images/5",
+            "mimeType": "image/png",
+            "storage": "buffer-view",
+            "image": {
+              "width": 1024,
+              "height": 1024,
+              "format": "rgb",
+              "primaries": "srgb",
+              "transfer": "srgb",
+              "bits": 8
+            }
+          },
+          {
+            "pointer": "/images/6",
+            "mimeType": "image/png",
+            "storage": "buffer-view",
+            "image": {
+              "width": 1024,
+              "height": 1024,
+              "format": "rgb",
+              "primaries": "srgb",
+              "transfer": "srgb",
+              "bits": 8
+            }
+          },
+          {
+            "pointer": "/images/7",
+            "mimeType": "image/png",
+            "storage": "buffer-view",
+            "image": {
+              "width": 2048,
+              "height": 2048,
+              "format": "rgb",
+              "primaries": "srgb",
+              "transfer": "srgb",
+              "bits": 8
+            }
+          },
+          {
+            "pointer": "/images/8",
+            "mimeType": "image/png",
+            "storage": "buffer-view",
+            "image": {
+              "width": 1024,
+              "height": 1024,
+              "format": "rgb",
+              "primaries": "srgb",
+              "transfer": "srgb",
+              "bits": 8
+            }
+          },
+          {
+            "pointer": "/images/9",
+            "mimeType": "image/png",
+            "storage": "buffer-view",
+            "image": {
+              "width": 1024,
+              "height": 1024,
+              "format": "rgb",
+              "primaries": "srgb",
+              "transfer": "srgb",
+              "bits": 8
+            }
+          },
+          {
+            "pointer": "/images/10",
+            "mimeType": "image/png",
+            "storage": "buffer-view",
+            "image": {
+              "width": 2048,
+              "height": 2048,
+              "format": "rgb",
+              "primaries": "srgb",
+              "transfer": "srgb",
+              "bits": 8
+            }
+          },
+          {
+            "pointer": "/images/11",
+            "mimeType": "image/png",
+            "storage": "buffer-view",
+            "image": {
+              "width": 1024,
+              "height": 1024,
+              "format": "rgb",
+              "primaries": "srgb",
+              "transfer": "srgb",
+              "bits": 8
+            }
+          }
+        ],
+        "animationCount": 0,
+        "materialCount": 5,
+        "hasMorphTargets": false,
+        "hasSkins": false,
+        "hasTextures": true,
+        "hasDefaultScene": true,
+        "drawCallCount": 15,
+        "totalVertexCount": 166662,
+        "totalTriangleCount": 303686,
+        "maxUVs": 1,
+        "maxInfluences": 0,
+        "maxAttributes": 4
+      }
+    },
+    "three": {
+      "engine": "Three.js 187",
+      "bounds": {
+        "min": [
+          -0.0512104257941246,
+          0.000400000368244946,
+          -0.02185540273785591
+        ],
+        "max": [
+          0.05108324810862541,
+          0.19500000774860382,
+          0.021855462342500687
+        ],
+        "dimensions": [
+          0.10229367390275002,
+          0.19460000738035887,
+          0.0437108650803566
+        ]
+      },
+      "errors": []
+    },
+    "babylon": {
+      "engine": "Babylon.js 9.36.0",
+      "meshes": [
+        {
+          "name": "Bottom_gusset_inward_W_fold.001",
+          "vertices": 7456,
+          "indices": 39936
+        },
+        {
+          "name": "Cap_64_vertical_grip_ribs.001",
+          "vertices": 6431,
+          "indices": 20736
+        },
+        {
+          "name": "Cap_crown.001",
+          "vertices": 2922,
+          "indices": 4596
+        },
+        {
+          "name": "Centered_neck.001",
+          "vertices": 964,
+          "indices": 4596
+        },
+        {
+          "name": "Narrow_continuous_heat_weld.001",
+          "vertices": 1206,
+          "indices": 1914
+        },
+        {
+          "name": "Pouch_back_panel.001",
+          "vertices": 67996,
+          "indices": 395904
+        },
+        {
+          "name": "Pouch_front_panel.001",
+          "vertices": 68088,
+          "indices": 395904
+        },
+        {
+          "name": "Screw_cap_ribbed_shell.001",
+          "vertices": 2999,
+          "indices": 4596
+        },
+        {
+          "name": "Spout_retaining_ring.004",
+          "vertices": 964,
+          "indices": 4596
+        },
+        {
+          "name": "Spout_retaining_ring.005",
+          "vertices": 964,
+          "indices": 4596
+        },
+        {
+          "name": "Spout_retaining_ring.006",
+          "vertices": 964,
+          "indices": 4596
+        },
+        {
+          "name": "Spout_retaining_ring.007",
+          "vertices": 964,
+          "indices": 4596
+        },
+        {
+          "name": "Spout_screw_thread_2_5_turns.001",
+          "vertices": 2816,
+          "indices": 15300
+        },
+        {
+          "name": "Spout_welded_boat_flange.001",
+          "vertices": 964,
+          "indices": 4596
+        },
+        {
+          "name": "Tamper_evident_band.001",
+          "vertices": 964,
+          "indices": 4596
+        }
+      ],
+      "materials": [
+        {
+          "name": "glTF_PET laminate • supplied PBR • subtle film.001",
+          "base": [
+            1,
+            1,
+            1
+          ],
+          "albedo": "glTF_PET laminate • supplied PBR • subtle film.001 (Base Color)",
+          "normal": "glTF_PET laminate • supplied PBR • subtle film.001 (Normal)"
+        },
+        {
+          "name": "glTF_Cap • off-white injection molded polypropylene.001",
+          "base": [
+            0.9100000262260437,
+            0.8999999761581421,
+            0.8700000047683716
+          ],
+          "normal": "glTF_Cap • off-white injection molded polypropylene.001 (Normal)"
+        },
+        {
+          "name": "glTF_Heat weld • flattened embossed laminate.001",
+          "base": [
+            1,
+            1,
+            1
+          ],
+          "albedo": "glTF_Heat weld • flattened embossed laminate.001 (Base Color)",
+          "normal": "glTF_Heat weld • flattened embossed laminate.001 (Normal)"
+        },
+        {
+          "name": "glTF_FINAL_back_printed_PET.001",
+          "base": [
+            1,
+            1,
+            1
+          ],
+          "albedo": "glTF_FINAL_back_printed_PET.001 (Base Color)",
+          "normal": "glTF_FINAL_back_printed_PET.001 (Normal)"
+        },
+        {
+          "name": "glTF_FINAL_front_printed_PET.001",
+          "base": [
+            1,
+            1,
+            1
+          ],
+          "albedo": "glTF_FINAL_front_printed_PET.001 (Base Color)",
+          "normal": "glTF_FINAL_front_printed_PET.001 (Normal)"
+        }
+      ],
+      "bounds": {
+        "min": [
+          -0.0512104257941246,
+          0.000400000368244946,
+          -0.02185540273785591
+        ],
+        "max": [
+          0.05108324810862541,
+          0.19500000774860382,
+          0.021855462342500687
+        ],
+        "dimensions": [
+          0.10229367390275002,
+          0.19460000738035887,
+          0.0437108650803566
+        ]
+      },
+      "errors": []
+    }
+  }
+}

@@ -1,0 +1,867 @@
+{
+  "sergeenee_surface_refined.glb": {
+    "nodes": [
+      "Back_Artwork_Master",
+      "Bottom_gusset_inward_W_fold",
+      "Bottom_gusset_inward_W_fold__BEFORE_SHAPE_POLISH",
+      "Cap_64_vertical_grip_ribs",
+      "Cap_crown",
+      "Centered_neck",
+      "Dark_studio_floor",
+      "Front_Artwork_Master",
+      "Narrow_continuous_heat_weld",
+      "Narrow_continuous_heat_weld__BEFORE_SHAPE_POLISH",
+      "Pouch_back_panel",
+      "Pouch_back_panel__BEFORE_SHAPE_POLISH",
+      "Pouch_front_panel",
+      "Pouch_front_panel__BEFORE_SHAPE_POLISH",
+      "Reference_back",
+      "Reference_front",
+      "Reference_side",
+      "Screw_cap_ribbed_shell",
+      "Spout_retaining_ring",
+      "Spout_retaining_ring.001",
+      "Spout_retaining_ring.002",
+      "Spout_retaining_ring.003",
+      "Spout_screw_thread_2_5_turns",
+      "Spout_welded_boat_flange",
+      "Tamper_evident_band",
+      "TODO_REAR_COPY_AND_SYMBOLS__separate_image_layer"
+    ],
+    "meshes": 20,
+    "primitives": [
+      {
+        "mesh": "Bottom_gusset_inward_W_fold",
+        "material": "PET laminate • supplied PBR • subtle film",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0"
+        ],
+        "morphTargets": 0
+      },
+      {
+        "mesh": "Bottom_gusset_inward_W_fold.001",
+        "material": "PET laminate • supplied PBR • subtle film",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0"
+        ],
+        "morphTargets": 0
+      },
+      {
+        "mesh": "Cap_64_vertical_grip_ribs",
+        "material": "Cap • off-white injection molded polypropylene",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0"
+        ],
+        "morphTargets": 0
+      },
+      {
+        "mesh": "Cylinder.008",
+        "material": "Cap • off-white injection molded polypropylene",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0"
+        ],
+        "morphTargets": 0
+      },
+      {
+        "mesh": "Cylinder.001",
+        "material": "Cap • off-white injection molded polypropylene",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0"
+        ],
+        "morphTargets": 0
+      },
+      {
+        "mesh": "Plane",
+        "material": "Studio charcoal satin",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0"
+        ],
+        "morphTargets": 0
+      },
+      {
+        "mesh": "Continuous perimeter weld bridge",
+        "material": "Heat weld • flattened embossed laminate",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0"
+        ],
+        "morphTargets": 0
+      },
+      {
+        "mesh": "Continuous perimeter weld bridge.001",
+        "material": "Heat weld • flattened embossed laminate",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0"
+        ],
+        "morphTargets": 0
+      },
+      {
+        "mesh": "Quad film surface • back",
+        "material": "FINAL_back_printed_PET",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0"
+        ],
+        "morphTargets": 4
+      },
+      {
+        "mesh": "Quad film surface • back",
+        "material": "Heat weld • flattened embossed laminate",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0"
+        ],
+        "morphTargets": 4
+      },
+      {
+        "mesh": "Quad film surface • back.001",
+        "material": "FINAL_back_printed_PET",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0"
+        ],
+        "morphTargets": 1
+      },
+      {
+        "mesh": "Quad film surface • back.001",
+        "material": "Heat weld • flattened embossed laminate",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0"
+        ],
+        "morphTargets": 1
+      },
+      {
+        "mesh": "Quad film surface • front",
+        "material": "FINAL_front_printed_PET",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0"
+        ],
+        "morphTargets": 4
+      },
+      {
+        "mesh": "Quad film surface • front",
+        "material": "Heat weld • flattened embossed laminate",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0"
+        ],
+        "morphTargets": 4
+      },
+      {
+        "mesh": "Quad film surface • front.001",
+        "material": "FINAL_front_printed_PET",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0"
+        ],
+        "morphTargets": 1
+      },
+      {
+        "mesh": "Quad film surface • front.001",
+        "material": "Heat weld • flattened embossed laminate",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0"
+        ],
+        "morphTargets": 1
+      },
+      {
+        "mesh": "Cylinder.007",
+        "material": "Cap • off-white injection molded polypropylene",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0"
+        ],
+        "morphTargets": 0
+      },
+      {
+        "mesh": "Cylinder.002",
+        "material": "Cap • off-white injection molded polypropylene",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0"
+        ],
+        "morphTargets": 0
+      },
+      {
+        "mesh": "Cylinder.003",
+        "material": "Cap • off-white injection molded polypropylene",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0"
+        ],
+        "morphTargets": 0
+      },
+      {
+        "mesh": "Cylinder.004",
+        "material": "Cap • off-white injection molded polypropylene",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0"
+        ],
+        "morphTargets": 0
+      },
+      {
+        "mesh": "Cylinder.005",
+        "material": "Cap • off-white injection molded polypropylene",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0"
+        ],
+        "morphTargets": 0
+      },
+      {
+        "mesh": "Thread helix",
+        "material": "Cap • off-white injection molded polypropylene",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0"
+        ],
+        "morphTargets": 0
+      },
+      {
+        "mesh": "Cylinder",
+        "material": "Cap • off-white injection molded polypropylene",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0"
+        ],
+        "morphTargets": 0
+      },
+      {
+        "mesh": "Cylinder.006",
+        "material": "Cap • off-white injection molded polypropylene",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0"
+        ],
+        "morphTargets": 0
+      }
+    ],
+    "materials": [
+      {
+        "name": "PET laminate • supplied PBR • subtle film",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true,
+        "baseColorImage": "pouch_red_basecolor_1024",
+        "normalImage": "pouch_wrinkle_height_1024",
+        "metallicRoughnessImage": "pouch_roughness_1024",
+        "pbr": {
+          "baseColorTexture": {
+            "index": 1
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "index": 2
+          }
+        },
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.23999999463558197,
+            "clearcoatRoughnessFactor": 0.2199999988079071
+          }
+        }
+      },
+      {
+        "name": "Cap • off-white injection molded polypropylene",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true,
+        "baseColorImage": null,
+        "normalImage": "cap_ribs_height_1024",
+        "metallicRoughnessImage": null,
+        "pbr": {
+          "baseColorFactor": [
+            0.9100000262260437,
+            0.8999999761581421,
+            0.8700000047683716,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.3400000035762787
+        }
+      },
+      {
+        "name": "Studio charcoal satin",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true,
+        "baseColorImage": null,
+        "normalImage": null,
+        "metallicRoughnessImage": null,
+        "pbr": {
+          "baseColorFactor": [
+            0.013000000268220901,
+            0.01600000075995922,
+            0.020999999716877937,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.28999999165534973
+        }
+      },
+      {
+        "name": "Heat weld • flattened embossed laminate",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true,
+        "baseColorImage": "pouch_red_basecolor_1024",
+        "normalImage": "pouch_wrinkle_height_1024",
+        "metallicRoughnessImage": null,
+        "pbr": {
+          "baseColorTexture": {
+            "index": 5
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.3199999928474426
+        },
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.23999999463558197,
+            "clearcoatRoughnessFactor": 0.2199999988079071
+          }
+        }
+      },
+      {
+        "name": "FINAL_back_printed_PET",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true,
+        "baseColorImage": "back_COPY_PENDING_layer",
+        "normalImage": "pouch_wrinkle_height_1024",
+        "metallicRoughnessImage": "pouch_roughness_1024",
+        "pbr": {
+          "baseColorTexture": {
+            "index": 7
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "index": 8
+          }
+        },
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.28999999165534973,
+            "clearcoatRoughnessFactor": 0.1899999976158142
+          }
+        }
+      },
+      {
+        "name": "FINAL_front_printed_PET",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true,
+        "baseColorImage": "front_print_master",
+        "normalImage": "pouch_wrinkle_height_1024",
+        "metallicRoughnessImage": "pouch_roughness_1024",
+        "pbr": {
+          "baseColorTexture": {
+            "index": 10
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "index": 11
+          }
+        },
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.28999999165534973,
+            "clearcoatRoughnessFactor": 0.1899999976158142
+          }
+        }
+      }
+    ],
+    "images": [
+      {
+        "name": "pouch_wrinkle_height_1024",
+        "embedded": true,
+        "width": 1024,
+        "height": 1024,
+        "grayscale": true,
+        "transparentPixels": 0,
+        "transparentBlackPixels": 0
+      },
+      {
+        "name": "pouch_red_basecolor_1024",
+        "embedded": true,
+        "width": 1024,
+        "height": 1024,
+        "grayscale": false,
+        "transparentPixels": 0,
+        "transparentBlackPixels": 0
+      },
+      {
+        "name": "pouch_roughness_1024",
+        "embedded": true,
+        "width": 1024,
+        "height": 1024,
+        "grayscale": false,
+        "transparentPixels": 0,
+        "transparentBlackPixels": 0
+      },
+      {
+        "name": "cap_ribs_height_1024",
+        "embedded": true,
+        "width": 1024,
+        "height": 1024,
+        "grayscale": true,
+        "transparentPixels": 0,
+        "transparentBlackPixels": 0
+      },
+      {
+        "name": "back_COPY_PENDING_layer",
+        "embedded": true,
+        "width": 1800,
+        "height": 2880,
+        "grayscale": false,
+        "transparentPixels": 5136645,
+        "transparentBlackPixels": 5136645
+      },
+      {
+        "name": "front_print_master",
+        "embedded": true,
+        "width": 2400,
+        "height": 3840,
+        "grayscale": false,
+        "transparentPixels": 6455819,
+        "transparentBlackPixels": 6455819
+      }
+    ]
+  },
+  "sergeenee_surface_refined_repaired.glb": {
+    "nodes": [
+      "Bottom_gusset_inward_W_fold.001",
+      "Cap_64_vertical_grip_ribs.001",
+      "Cap_crown.001",
+      "Centered_neck.001",
+      "Narrow_continuous_heat_weld.001",
+      "Pouch_back_panel.001",
+      "Pouch_front_panel.001",
+      "Screw_cap_ribbed_shell.001",
+      "Spout_retaining_ring.004",
+      "Spout_retaining_ring.005",
+      "Spout_retaining_ring.006",
+      "Spout_retaining_ring.007",
+      "Spout_screw_thread_2_5_turns.001",
+      "Spout_welded_boat_flange.001",
+      "Tamper_evident_band.001",
+      "SERGEENEE_CURRENT_POUCH"
+    ],
+    "meshes": 15,
+    "primitives": [
+      {
+        "mesh": "Bottom_gusset_inward_W_fold.002",
+        "material": "glTF_PET laminate • supplied PBR • subtle film.001",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0",
+          "TANGENT"
+        ],
+        "morphTargets": 0
+      },
+      {
+        "mesh": "Cap_64_vertical_grip_ribs.001",
+        "material": "glTF_Cap • off-white injection molded polypropylene.001",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0",
+          "TANGENT"
+        ],
+        "morphTargets": 0
+      },
+      {
+        "mesh": "Cylinder.011",
+        "material": "glTF_Cap • off-white injection molded polypropylene.001",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0",
+          "TANGENT"
+        ],
+        "morphTargets": 0
+      },
+      {
+        "mesh": "Cylinder.013",
+        "material": "glTF_Cap • off-white injection molded polypropylene.001",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0",
+          "TANGENT"
+        ],
+        "morphTargets": 0
+      },
+      {
+        "mesh": "Continuous perimeter weld bridge.002",
+        "material": "glTF_Heat weld • flattened embossed laminate.001",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0",
+          "TANGENT"
+        ],
+        "morphTargets": 0
+      },
+      {
+        "mesh": "Quad film surface • back.002",
+        "material": "glTF_FINAL_back_printed_PET.001",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0",
+          "TANGENT"
+        ],
+        "morphTargets": 0
+      },
+      {
+        "mesh": "Quad film surface • front.002",
+        "material": "glTF_FINAL_front_printed_PET.001",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0",
+          "TANGENT"
+        ],
+        "morphTargets": 0
+      },
+      {
+        "mesh": "Cylinder.010",
+        "material": "glTF_Cap • off-white injection molded polypropylene.001",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0",
+          "TANGENT"
+        ],
+        "morphTargets": 0
+      },
+      {
+        "mesh": "Cylinder.014",
+        "material": "glTF_Cap • off-white injection molded polypropylene.001",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0",
+          "TANGENT"
+        ],
+        "morphTargets": 0
+      },
+      {
+        "mesh": "Cylinder.015",
+        "material": "glTF_Cap • off-white injection molded polypropylene.001",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0",
+          "TANGENT"
+        ],
+        "morphTargets": 0
+      },
+      {
+        "mesh": "Cylinder.016",
+        "material": "glTF_Cap • off-white injection molded polypropylene.001",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0",
+          "TANGENT"
+        ],
+        "morphTargets": 0
+      },
+      {
+        "mesh": "Cylinder.017",
+        "material": "glTF_Cap • off-white injection molded polypropylene.001",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0",
+          "TANGENT"
+        ],
+        "morphTargets": 0
+      },
+      {
+        "mesh": "Thread helix",
+        "material": "glTF_Cap • off-white injection molded polypropylene.001",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0",
+          "TANGENT"
+        ],
+        "morphTargets": 0
+      },
+      {
+        "mesh": "Cylinder.012",
+        "material": "glTF_Cap • off-white injection molded polypropylene.001",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0",
+          "TANGENT"
+        ],
+        "morphTargets": 0
+      },
+      {
+        "mesh": "Cylinder.009",
+        "material": "glTF_Cap • off-white injection molded polypropylene.001",
+        "attributes": [
+          "POSITION",
+          "NORMAL",
+          "TEXCOORD_0",
+          "TANGENT"
+        ],
+        "morphTargets": 0
+      }
+    ],
+    "materials": [
+      {
+        "name": "glTF_PET laminate • supplied PBR • subtle film.001",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true,
+        "baseColorImage": "film_basecolor",
+        "normalImage": "film_normal",
+        "metallicRoughnessImage": "film_roughness",
+        "pbr": {
+          "baseColorTexture": {
+            "index": 1
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "index": 2
+          }
+        },
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.23999999463558197,
+            "clearcoatRoughnessFactor": 0.2199999988079071
+          }
+        }
+      },
+      {
+        "name": "glTF_Cap • off-white injection molded polypropylene.001",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true,
+        "baseColorImage": null,
+        "normalImage": "cap_normal",
+        "metallicRoughnessImage": null,
+        "pbr": {
+          "baseColorFactor": [
+            0.9100000262260437,
+            0.8999999761581421,
+            0.8700000047683716,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.3400000035762787
+        }
+      },
+      {
+        "name": "glTF_Heat weld • flattened embossed laminate.001",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true,
+        "baseColorImage": "weld_basecolor",
+        "normalImage": "weld_normal",
+        "metallicRoughnessImage": null,
+        "pbr": {
+          "baseColorTexture": {
+            "index": 5
+          },
+          "metallicFactor": 0,
+          "roughnessFactor": 0.3199999928474426
+        },
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.23999999463558197,
+            "clearcoatRoughnessFactor": 0.2199999988079071
+          }
+        }
+      },
+      {
+        "name": "glTF_FINAL_back_printed_PET.001",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true,
+        "baseColorImage": "back_basecolor",
+        "normalImage": "back_normal",
+        "metallicRoughnessImage": "back_roughness",
+        "pbr": {
+          "baseColorTexture": {
+            "index": 7
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "index": 8
+          }
+        },
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.28999999165534973,
+            "clearcoatRoughnessFactor": 0.1899999976158142
+          }
+        }
+      },
+      {
+        "name": "glTF_FINAL_front_printed_PET.001",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true,
+        "baseColorImage": "front_basecolor",
+        "normalImage": "front_normal",
+        "metallicRoughnessImage": "front_roughness",
+        "pbr": {
+          "baseColorTexture": {
+            "index": 10
+          },
+          "metallicFactor": 0,
+          "metallicRoughnessTexture": {
+            "index": 11
+          }
+        },
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.28999999165534973,
+            "clearcoatRoughnessFactor": 0.1899999976158142
+          }
+        }
+      }
+    ],
+    "images": [
+      {
+        "name": "film_normal",
+        "embedded": true,
+        "width": 1024,
+        "height": 1024,
+        "grayscale": false,
+        "transparentPixels": 0,
+        "transparentBlackPixels": 0
+      },
+      {
+        "name": "film_basecolor",
+        "embedded": true,
+        "width": 1024,
+        "height": 1024,
+        "grayscale": false,
+        "transparentPixels": 0,
+        "transparentBlackPixels": 0
+      },
+      {
+        "name": "film_roughness",
+        "embedded": true,
+        "width": 1024,
+        "height": 1024,
+        "grayscale": false,
+        "transparentPixels": 0,
+        "transparentBlackPixels": 0
+      },
+      {
+        "name": "cap_normal",
+        "embedded": true,
+        "width": 1024,
+        "height": 1024,
+        "grayscale": false,
+        "transparentPixels": 0,
+        "transparentBlackPixels": 0
+      },
+      {
+        "name": "weld_normal",
+        "embedded": true,
+        "width": 1024,
+        "height": 1024,
+        "grayscale": false,
+        "transparentPixels": 0,
+        "transparentBlackPixels": 0
+      },
+      {
+        "name": "weld_basecolor",
+        "embedded": true,
+        "width": 1024,
+        "height": 1024,
+        "grayscale": false,
+        "transparentPixels": 0,
+        "transparentBlackPixels": 0
+      },
+      {
+        "name": "back_normal",
+        "embedded": true,
+        "width": 1024,
+        "height": 1024,
+        "grayscale": false,
+        "transparentPixels": 0,
+        "transparentBlackPixels": 0
+      },
+      {
+        "name": "back_basecolor",
+        "embedded": true,
+        "width": 2048,
+        "height": 2048,
+        "grayscale": false,
+        "transparentPixels": 0,
+        "transparentBlackPixels": 0
+      },
+      {
+        "name": "back_roughness",
+        "embedded": true,
+        "width": 1024,
+        "height": 1024,
+        "grayscale": false,
+        "transparentPixels": 0,
+        "transparentBlackPixels": 0
+      },
+      {
+        "name": "front_normal",
+        "embedded": true,
+        "width": 1024,
+        "height": 1024,
+        "grayscale": false,
+        "transparentPixels": 0,
+        "transparentBlackPixels": 0
+      },
+      {
+        "name": "front_basecolor",
+        "embedded": true,
+        "width": 2048,
+        "height": 2048,
+        "grayscale": false,
+        "transparentPixels": 0,
+        "transparentBlackPixels": 0
+      },
+      {
+        "name": "front_roughness",
+        "embedded": true,
+        "width": 1024,
+        "height": 1024,
+        "grayscale": false,
+        "transparentPixels": 0,
+        "transparentBlackPixels": 0
+      }
+    ]
+  }
+}

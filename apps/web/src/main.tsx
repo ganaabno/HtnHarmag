@@ -8,6 +8,7 @@ import "@fontsource-variable/manrope";
 import "lenis/dist/lenis.css";
 import "./styles/global.css";
 import "./styles/cinematic.css";
+
 const queryClient = new QueryClient({
   defaultOptions: { queries: { staleTime: 60_000, retry: 1 } },
 });

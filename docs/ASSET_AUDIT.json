@@ -1,19 +1,16 @@
 {
   "models": [
     {
-      "original": "sergeenee_product_FINAL.glb",
-      "originalBytes": 18548392,
-      "originalSha256": "4e4dd3834813e29e6b3b49a25baca9ffafd8aafad63e73ac475a87a6cc7bae02",
-      "optimized": "sergeenee.glb",
-      "optimizedBytes": 5230036,
+      "original": "sergeenee_surface_refined_repaired.glb",
+      "originalBytes": 18704556,
+      "originalSha256": "870a2f2c6c1977714927e71a521ebbf3225362b3281b9ec1f77a757d0643f9dd",
+      "optimized": "sergeenee_surface_refined_repaired.glb",
+      "optimizedBytes": 18704556,
       "meshCount": 15,
       "materialCount": 5,
-      "embeddedImages": 8,
+      "embeddedImages": 12,
       "extensions": [
-        "EXT_meshopt_compression",
-        "EXT_texture_webp",
-        "KHR_materials_clearcoat",
-        "KHR_mesh_quantization"
+        "KHR_materials_clearcoat"
       ]
     },
     {
@@ -33,5 +30,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-11-14T09:38:24.580Z"
+  "generatedAt": "2026-11-15T11:18:28.579Z"
 }
